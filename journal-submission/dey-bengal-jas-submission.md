@@ -429,7 +429,7 @@ Yahya bin Ahmad (15th century), *Tarikh-i-Mubarak Shahi*, discussed in Majumdar 
 
 ## Contributor Note
 
-**Robin Dey** is an independent researcher and a descendant of the De/Dey family of Mymensingh, eastern Bengal. He is the great-grandson of Aswini Kumar De, umbrella manufacturer of Mymensingh Burra Bazar, whose trademark (*Registry No. 964, 23 August 1926*) and judicial record (*AIR 1938 Cal 216*) form the micro-historical case study in Section 7 of this paper.
+**Robin Dey** is an independent researcher and a descendant of the De/Dey family of Mymensingh, eastern Bengal. He is the grandson of Aswini Kumar De, umbrella manufacturer of Mymensingh Burra Bazar, whose trademark (*Registry No. 964, 23 August 1926*) and judicial record (*AIR 1938 Cal 216*) form the micro-historical case study in Section 7 of this paper.
 
 Correspondence: robin@[email address]
 

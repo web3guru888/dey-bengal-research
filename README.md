@@ -127,7 +127,7 @@ Source: **Pagani, L., Bose, S., Ayub, Q. and Tyler-Smith, C. (2017)**, "Kayastha
 
 ## The Mymensingh Connection
 
-**Aswini Kumar De** (c. 1880–post-1937), Robin Dey's grandfather:
+**Aswini Kumar De** (c. 1880–post-1937), Robin Dey's grandfather (Robin is his grandson):
 - Umbrella manufacturer, **Mymensingh Burra Bazar**
 - Brand: **"Aswini Chhata"** (swan/*haṃsa* trademark)
 - Trademark: **Registry No. 964**, registered **23 August 1926**
