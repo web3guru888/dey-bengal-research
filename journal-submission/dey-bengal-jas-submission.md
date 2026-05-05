@@ -11,7 +11,9 @@
 
 **Abstract**
 
-The surname De/Dey (Bengali: দে / দেয়), today borne by hundreds of thousands of Bengali Hindus across West Bengal, Bangladesh, and the global South Asian diaspora, is among the most historically and socially layered cognomens in Bengal. This paper traces its origins, social meanings, and documentary record through five distinct analytical lenses: etymology, epigraphy, caste sociology, population genetics, and local family history. Drawing on copper-plate inscriptions of the thirteenth century, the *kulagrantha* (genealogical text) tradition codified by Hari Misra in the court of the last Hindu king of eastern Bengal, a systematic analysis of five volumes of Nagendranath Basu's *Banger Jatiya Itihas* (1913–1937), colonial ethnographic surveys, the Bengal census series of 1872–1931, published judicial records, and the 2017 genetic study by Pagani, Bose, Ayub, and Tyler-Smith, the paper argues that the De/Dey surname crystallised as a hereditary identifier in the period 1231–1317 CE, in close proximity to the Vaishnava Deva dynasty of Bikrampur and Sonargaon — whose own lineage extends to an ancient capital at Karnasuvarna (modern Kansona, Murshidabad) with roots traceable to the fifth century CE. Within Bengali Kayastha social classification, Deys occupy a dual position: ranked *first* among eight *Siddha Maulika* families in the Dakshin-Radhi (western Bengal) framework; and *Mahapatra* — the highest tier of the *Maulika* division — in the Bangaja (eastern Bengal) framework. Basu's *Baishya Kanda* (1913) confirms decisively that the De/Dey surname has no presence in Bengal's Vaishya genealogical record, settling the caste question. Genetic evidence from Pagani et al. (2017) confirms Y-chromosome haplogroup H1a* and South Indian autosomal affinity for a direct Bengali Dey sample, consistent with indigenous Bengal rather than North Indian origin. The paper concludes with a micro-historical case study of one East Bengali Dey family in early twentieth-century Mymensingh, recoverable through the Calcutta High Court judgment *Loke Nath Sen v. Aswini Kumar Dey* (AIR 1938 Cal 216).
+The surname De/Dey (Bengali: দে / দেয়), today borne by hundreds of thousands of Bengali Hindus across West Bengal, Bangladesh, and the global South Asian diaspora, is among the most historically and socially layered cognomens in Bengal. This paper traces its origins, social meanings, and documentary record through five distinct analytical lenses: etymology, epigraphy, caste sociology, population genetics, and local family history. Drawing on copper-plate inscriptions of the thirteenth century, the *kulagrantha* (genealogical text) tradition as compiled and transmitted by Nagendranath Basu in *Banger Jatiya Itihas* (1911–1933), colonial ethnographic surveys, the Bengal census series of 1872–1931, published judicial records, and the 2017 genetic study by Pagani, Bose, Ayub, and Tyler-Smith, the paper argues that the De/Dey surname crystallised as a hereditary identifier in the period 1231–1317 CE, in close proximity to the Vaishnava Deva dynasty of Bikrampur and Sonargaon. Within Bengali Kayastha social classification, Deys occupy a dual position: listed first in the metrical enumeration of eight *Siddha Maulika* families in the Dakshin-Radhi (western Bengal) framework; and *Mahapatra* — the highest tier of the *Maulika* division — in the Bangaja (eastern Bengal) framework. Kulagrantha evidence transmitted through Basu suggests that the De/Dey surname is not established as a primary genealogical identifier in Bengal's Vaishya community, though the cognomen appears among individual members of several castes (Risley, 1891). Genetic evidence from Pagani et al. (2017) identifies Y-chromosome haplogroup H1a* and South Indian autosomal affinity for a single Bengali Dey individual, consistent with indigenous Bengal rather than North Indian origin, though the sample size of one limits generalisation. The paper concludes with a micro-historical case study of one East Bengali Dey family in early twentieth-century Mymensingh, recoverable through the Calcutta High Court judgment *Loke Nath Sen v. Aswini Kumar Dey* (AIR 1938 Cal 216).
+
+A note on method: the kulagrantha sources on which much of this paper depends require critical handling. Section 2 addresses the genre and its scholarly treatment in detail.
 
 **Keywords:** De/Dey surname, Bengali Kayastha, Deva dynasty, Bengal genealogy, Bangaja system, population genetics, Mymensingh, kulagrantha, Nagendranath Basu, caste history
 
@@ -21,25 +23,59 @@ The surname De/Dey (Bengali: দে / দেয়), today borne by hundreds of 
 
 The Bengali Hindu surname system is among the most historically layered caste-identification mechanisms in the Indian subcontinent. Unlike the relatively simple pan-Indian Varna classification — Brahmin, Kshatriya, Vaishya, Shudra — the Bengali system evolved through a series of politically motivated genealogical reforms, beginning with the Sena dynasty's formalisation of *kulīnism* in the twelfth century CE and continuing through the Deva dynasty's patronage of the *kulagrantha* tradition in the thirteenth century, to produce an internally ranked hierarchy of extraordinary complexity. The Bengali Kayastha caste, one of Bengal's three traditional upper castes alongside Brahmin and Baidya, contains within itself no fewer than ninety-nine ranked surnames in the genealogical texts, with precise gradations of clan rank (*kula*) governing marriage eligibility, ritual status, and social precedence for eight centuries.
 
-Within this system, the surname De/Dey occupies a position that is simultaneously distinguished and contested. It is *maulika* — original local Bengal stock, predating the legendary Kannauj migration of the five Kulin clans — yet *siddha*, elevated by royal decree above the ordinary body of the caste. It is geographically distinctive, more prevalent in eastern Bengal (present-day Bangladesh) than in the Radhi-tradition western districts, and associated with a specific medieval genealogical framework — the Bangaja system — that organised Kayastha society in eastern Bengal from the thirteenth century onward. It carries a name derived from one of Sanskrit's oldest and most semantically rich roots, *deva* (divine), and that name traces most probably to a dynasty — the Hindu Vaishnava Deva kings of Bikrampur and Sonargaon — whose fall to the Bengal Sultanate in 1317 CE dispersed the Hindu elite across the Bengal delta and fixed the *Deva* root as a permanent hereditary surname.
+Within this system, the surname De/Dey occupies a position that is simultaneously distinguished and contested. It is *maulika* — original local Bengal stock, predating the legendary Kannauj migration of the five Kulin clans — yet *siddha*, elevated by royal decree above the ordinary body of the caste. It is geographically distinctive, more prevalent in eastern Bengal (present-day Bangladesh) than in the Radhi-tradition western districts, and associated with a specific medieval genealogical framework — the Bangaja system — that organised Kayastha society in eastern Bengal from the thirteenth century onward. It carries a name derived from one of Sanskrit's oldest and most semantically rich roots, *deva* (divine), and that name traces most probably to a dynasty — the Hindu Vaishnava Deva kings of Bikrampur and Sonargaon — whose fall to the Bengal Sultanate in 1317 CE dispersed the Hindu elite across the Bengal delta.
 
-The surname also spans castes. The same De/Dey cognomen appears — though with different genealogical histories — among Suvarna Banik, Teli, and Kansari communities (Risley, 1892: 216). This paper concentrates on the Kayastha tradition, which represents the historically primary and socially dominant use of the surname, while acknowledging the multi-caste spread.
+The surname also spans castes. The same De/Dey cognomen appears — with different genealogical histories — among Suvarna Banik, Teli, and Kansari communities (Risley, 1891: 216). This paper concentrates on the Kayastha tradition, which represents the historically primary and socially dominant use of the surname, while acknowledging the multi-caste spread throughout.
 
-This investigation is necessarily interdisciplinary. The epigraphic record — three copper-plate land grants from Damodaradeva (1234, 1236, 1243 CE) and one from Dasharathadeva — provides the medieval anchor. Five volumes of Nagendranath Basu's *Banger Jatiya Itihas* — the *Baishya Kanda* (1913), *Rajanya Kanda* (1914), *Uttarrariya Kayastha-kanda* (1929), *Dakshin Rariya Kayastha-kanda* (1933), and *Kayastha Kanda* (1937) — supply the most authoritative indigenous Bengali classification of the Dey family. Colonial ethnographic and census records supply the nineteenth- and twentieth-century institutional record. And Pagani et al. (2017) provides the only published direct genetic evidence for a Bengali Dey individual.
+This investigation is necessarily interdisciplinary. The epigraphic record — three copper-plate land grants from Damodaradeva (1234, 1236, 1243 CE) and one from Dasharathadeva — provides the medieval anchor. Five volumes of Nagendranath Basu's *Banger Jatiya Itihas* supply the most extensive indigenous Bengali compilation of the Dey family's genealogical tradition; their critical handling is addressed in Section 2. Colonial ethnographic and census records supply the nineteenth- and twentieth-century institutional record. And Pagani et al. (2017) provides the only published direct genetic evidence for a Bengali Dey individual.
 
-The paper proceeds as follows. Section 2 analyses the etymology and phonological evolution of the surname. Section 3 examines the deep history of the Deva dynasty, including the critical distinction between two persons both called Danujamardana. Section 4 situates the De/Dey family within the Bengali Kayastha social hierarchy and addresses the Vaishya question directly. Section 5 discusses the colonial documentation of Kayastha identity. Section 6 presents and interprets the genetic evidence. Section 7 presents a micro-historical case study of one Dey family in early twentieth-century Mymensingh. Section 8 concludes.
+The paper proceeds as follows. Section 2 addresses the kulagrantha genre as a critical historical source and situates Basu within that tradition. Section 3 analyses the etymology and phonological evolution of the surname. Section 4 examines the Deva dynasty and its connection to the De/Dey family, including the contested question of Danujamardana's identity. Section 5 situates the De/Dey family within the Bengali Kayastha social hierarchy. Section 6 discusses the colonial documentation of Kayastha identity. Section 7 presents and interprets the genetic evidence. Section 8 presents a micro-historical case study of one Dey family in early twentieth-century Mymensingh. Section 9 concludes.
 
 ---
 
-## 2. Etymology and Nomenclature: From *Deva* to *De*
+## 2. Source Methodology: Kulagranthas, Basu, and the Critical Use of Genealogical Evidence
 
-### 2.1 The Sanskrit Root
+### 2.1 The Kulagrantha Genre
+
+The *kulagrantha* — literally "family text" — is a Bengali genre of genealogical literature produced primarily between the fourteenth and early nineteenth centuries by professional genealogists (*ghatakas*) who maintained descent records for high-caste Kayastha, Brahmin, and Baidya families. Kulagranthas served not merely as historical chronicles but as social charters: they were recited at weddings, *shraddha* ceremonies, and rites of passage, and they functioned to validate or contest the rank of prospective marriage partners. As Kumkum Chatterjee observes, kulagranthas "validate relationships between groups" and should be read as "ideologically purposive social documents" rather than as historical chronicles in the modern sense (Chatterjee, 2005: 1463–1465; 2009: 110–134).
+
+Ronald Inden's structural analysis of the genre in *Marriage and Rank in Bengali Culture* (1976) identified three textual layers within any kulagrantha: (i) the *kula-srsti* or "creation of the system," which narrates the founding genealogical myth; (ii) the *vidhi-prakarana* or "rule-chapter," which gives the governing rules of caste rank; and (iii) the *vamsa-amsa* or "lineage section," which records the current genealogical positions of specific families. Inden's palaeographic finding is critical for assessing the kulagrantha tradition's historical claims: "all [kulagrantha manuscripts are], on palaeographic grounds, assigned to the late eighteenth or early nineteenth centuries" (Inden, 1976: 27–28), which means internal dating claims — such as "composed in the court of Dasharathadeva in the 13th century" — cannot be accepted at face value without independent corroboration.
+
+Inden also notes that the genealogical sections of kulagranthas were "corporate property" of subcastes, with content "approved" by communal consensus before payment to the *ghataka* — a process structurally resistant to factual revision and structurally sympathetic to legitimating inflation (Inden, 1976: 38–41). Kulagranthas, in short, tell us a great deal about how communities *wished to understand themselves*, and considerably less — without independent corroboration — about the objective facts of medieval history.
+
+This does not render kulagranthas useless as historical evidence. For the history of Bengali caste social organisation — the ranking systems, terminology, territorial units, and ideological frameworks through which communities understood themselves from the fourteenth century onward — kulagranthas are indispensable. What they cannot do, without epigraphic or other independent corroboration, is establish specific dynastic genealogies, gotra ascriptions for historical rulers, or long-range territorial continuities as documentary fact.
+
+### 2.2 Nagendranath Basu: Compiler, Activist, and Primary Source
+
+Nagendranath Basu (6 July 1866 – 11 October 1938) compiled the most comprehensive published collection of kulagrantha material for all communities of Bengal in his multi-volume *Banger Jatiya Itihas*, published serially from 1911 to 1933 under the auspices of the Bangiya Sahitya Parishad. Basu was also the editor of the *Vishvakosh* (the first Bengali encyclopaedia) and a prolific cultural scholar. His *Banger Jatiya Itihas* is, in scope and depth of Bengali-language source compilation, without parallel.
+
+It is, however, essential to situate Basu within the ideological context in which he worked. Basu founded the Kayastha Sabha in 1902 and edited its journal *Kayastha Patrika* — an explicit Kayastha advocacy organisation operating at a moment when the community's legal status as dvija or Shudra was actively contested in the colonial courts (the 1884 determination in *Rajcoomar Lal v. Bissessur Dayal* that Bengali Kayasthas were Shudra had galvanised the community). Inden, who used Basu more extensively than any other Western scholar of the kulagrantha tradition, explicitly qualifies his reliance: "although many of his arguments about the origin of the kāyasthas of Bengal cannot be taken too seriously, I have relied heavily on the hundreds of texts which he collected and published" (Inden, 1976: xii). The standard academic assessment, following Projit Bihari Mukharji, characterises Basu's interpretive framework as that of a "dedicated Kayastha propagandist" whose "interpretations are now deemed to be of questionable reliability, courtesy his strong antipathy towards … Muslim rule in India and a rigid acceptance of the then-prevalent caste hierarchy as a social order" (*Nagendranath Basu*, Wikipedia, citing Mukharji; the specific Mukharji publication has not been independently located by this author and is flagged for further verification).
+
+This paper treats Basu accordingly: not as an authoritative historian whose reconstructions are taken as established fact, but as a primary compiler of the kulagrantha tradition whose assembled texts are evidence for that tradition's claims and terminology, and whose own interpretive glosses require independent verification. Where Basu's claims are corroborated by independent scholarship (epigraphy, other kulagrantha compilations, colonial records), they are treated as reliable evidence for historical practice. Where they rest on single-manuscript chains or Basu's own inferences, they are presented as the kulagrantha tradition's account rather than as documented history.
+
+### 2.3 The Serial Publication Dates of *Banger Jatiya Itihas*
+
+The standard citation dates for Basu's volumes in this paper follow the DLI catalogue metadata for the relevant Internet Archive items. The serial run extended from 1911 to 1933; some items were reprinted or posthumously expanded. The *Kayastha Kanda* is cited as "1937" per the DLI metadata for item `in.ernet.dli.2015.353523`, but this date is not confirmed by a title-page image and sits slightly beyond the 1911–1933 publication window recorded in Basu's standard bibliographic entries. Readers requiring precise edition verification are advised to consult physical copies at the Bangiya Sahitya Parishad (Kolkata) or the National Library of India (Kolkata). Citation format in this paper uses volume-title and running line numbers as numbered in the OCR text of the DLI digitised editions, which may not correspond to page numbers in physical copies; the underlying Bengali passages have been read from the digitised text and the author's responsibility for their accurate citation is accordingly qualified.
+
+### 2.4 A Three-Category Framework for Evaluating Basu-Derived Claims
+
+Following Inden's model, this paper evaluates all Basu-derived claims against three categories:
+
+- **Category A — Corroborated**: Claims verifiable against sources independent of the kulagrantha tradition (epigraphy, colonial records, multiple non-Basu kulagrantha compilations). These are stated as established.
+- **Category B — Consistent with tradition**: Claims consistent with the broader kulagrantha corpus and cross-attested in multiple Basu volumes and other compilation sources, but without epigraphic corroboration. These are stated as established within the kulagrantha tradition.
+- **Category C — Single-source or inference**: Claims resting on a single manuscript chain (especially Batu Bhatta's *Deva Bangsha* transmitted through the Deb Roy family of Mymensingh) or on Basu's own historiographical synthesis. These are explicitly flagged as kulagrantha tradition and require independent verification before being treated as historical fact.
+
+---
+
+## 3. Etymology and Nomenclature: From *Deva* to *De*
+
+### 3.1 The Sanskrit Root
 
 The surname De/Dey derives from the Sanskrit *deva* (देव), meaning "god," "divine being," or "celestial." This root is among the most generative in the Sanskrit lexical corpus. As a nominal suffix, *-deva* was appended to royal names throughout the Gupta period — Chandraguptadeva, Kumāraguptadeva — signifying divine sanction for royal authority. The historian Sharma (1978) notes that administrative surnames such as Datta, Dasa, Naga, Nandi, and Ghosha — now Bengal Kayastha surnames — appear alongside Brahmin names in Gupta-era documents, pointing to the early crystallisation of an administrative class whose surnames carried Sanskrit ritual weight.
 
-A Sanskrit verse from the colophon of Raja Radhakanta Deb's *Shabdakalpadruma*, quoted in Basu's *Kayastha Kanda* (1937: line 472, fn. 44), expresses this connection directly: "In the lineage of the Kayasthas, the Deva dynasty is worthy of praise. They are devotees resident in the city of Murshidabad. They are community leaders in the Karnasuvarna-named region." The verse links the Deva dynasty surname to specific genealogical geography — Karnasuvarna in Murshidabad — addressed fully in Section 3.
+A Sanskrit verse from the colophon of Raja Radhakanta Deb's *Shabdakalpadruma*, quoted in Basu's *Kayastha Kanda* (1937: line 472, fn. 44), expresses this connection directly: "In the lineage of the Kayasthas, the Deva dynasty is worthy of praise. They are devotees resident in the city of Murshidabad. They are community leaders in the Karnasuvarna-named region." The verse links the Deva dynasty surname to specific genealogical geography — Karnasuvarna in Murshidabad — addressed fully in Section 4.
 
-### 2.2 Phonological Evolution
+### 3.2 Phonological Evolution
 
 The evolution of the modern surname from its Sanskrit root follows a predictable Bengali phonological pathway:
 
@@ -57,33 +93,33 @@ A precise East/West division has been confirmed by comparative analysis of Basu'
 
 The De/Dey shift is a diaspora phonological regularisation. Court records reflect this: the case *Loke Nath Sen v. Aswini Kumar Dey* (AIR 1938 Cal 216) titles the respondent "Dey" even though he signed his trademark "De." Both spellings designate the same surname.
 
-### 2.3 Title and Honorific Dimensions
+### 3.3 Title and Honorific Dimensions
 
-The Sanskrit *deya* (देय) means "that which ought to be given" or "a gift," and some scholars have proposed that the surname may in certain communities have originated as a mark of a family that received a royal or Brahminical land grant. However, the *deva* derivation is more widely attested in the genealogical literature and more consistent with the dynastic history reviewed in Section 3.
+The Sanskrit *deya* (देय) means "that which ought to be given" or "a gift," and some scholars have proposed that the surname may in certain communities have originated as a mark of a family that received a royal or Brahminical land grant. However, the *deva* derivation is more widely attested in the genealogical literature and more consistent with the dynastic history reviewed in Section 4.
 
 ---
 
-## 3. The Deva Dynasty: Ancient Roots and the Crystallisation of the Surname
+## 4. The Deva Dynasty: Historical Evidence and Genealogical Tradition
 
-### 3.1 The Ancient Capital: Karnasuvarna (5th–12th Century CE)
+### 4.1 The Question of Karnasuvarna Origins (Category C — Single-Source)
 
-The De/Dey surname's genealogical history does not begin in the thirteenth century. Basu's *Kayastha Kanda* (1937: lines 466–490) and *Rajanya Kanda* (1914: lines 3301–3336) together document that the senior branch of the Deva dynasty traces to an ancient capital at **Karnasuvarna** (modern Kansona village, near Murshidabad, West Bengal). The Chinese pilgrim Xuanzang visited Karnasuvarna in 638–639 CE and recorded thirteen Buddhist monasteries in the vicinity. The town appears in Gupta-era copper plates as a commercial and administrative centre from at least the fifth century CE.
+The kulagrantha tradition transmitted by Basu asserts that the senior branch of the Deva dynasty traces its origins to an ancient capital at **Karnasuvarna** (modern Kansona village, near Murshidabad, West Bengal). Karnasuvarna at Kansona is a genuine archaeological site: the Chinese pilgrim Xuanzang visited it in 638–639 CE and recorded thirteen Buddhist monasteries. The site appears in Gupta-era copper plates as a commercial and administrative centre from at least the fifth century CE. Shashanka (r. c. 600–638 CE), the first historically documented independent king of Bengal, ruled from Karnasuvarna.
 
-Basu's primary genealogical source is Batu Bhatta's *Deva Bangsha* — a kulagrantha transmitted to Basu by Gobindachandra Deb Roy, High Court advocate, western Mymensingh, from the manuscript held by Kshitindra Deb Roy of Purya village. The genealogical line traces: Karnasena (Shandilya gotra, Karnasuvarna) → [many generations] → Suradeva → Danujarideva → Harideva → Narayanadeva → Purujit → Aditya → Devendra → Mahendradeva (coins, 1414 CE) → **Danujamardana Dev** (coins, 1417 CE; Chandradwip).
+Basu's primary genealogical source for this claim is Batu Bhatta's *Deva Bangsha* — a kulagrantha transmitted to Basu by Gobindachandra Deb Roy, High Court advocate, western Mymensingh, from the manuscript held by Kshitindra Deb Roy of Purya village, Mymensingh. The genealogical line as Basu transmits it traces: Karnasena (Shandilya gotra, Karnasuvarna) → [many generations] → Suradeva → Danujarideva → Harideva → Narayanadeva → Purujit → Aditya → Devendra → Mahendradeva (coins, 1414 CE) → **Danujamardana Dev** (coins, 1417 CE; Chandradwip).
 
-Living communities of the Deva/De/Dey family in western Bengal are still known as *"Kansona ke De"* — confirming a continuous community identity from the ancient Deva dynasty capital (Basu, 1937: line 466).
+This genealogical claim must be assessed as **Category C** — single-source, requiring independent verification. Several important qualifications apply. First, no inscription, copperplate, or numismatic source associates the historical Deva rulers of Sonargaon with Karnasuvarna. The three surviving copperplates of Damodaradeva (1234, 1236, 1243 CE) do not mention Karnasuvarna, do not state the dynasty's gotra, and do not record a Karnasena founder. Second, the Pala (750–1174 CE) and Sena (c. 1070–1230 CE) dynasties intervened between Shashanka's Karnasuvarna and the thirteenth-century Deva kingdom; no documentary evidence establishes political or genealogical continuity across these interregna. Third, the Karnasuvarna-to-Sonargaon lineage, as Inden (1976: 27–28) observes of kulagrantha foundation myths generally, is a prestige-claiming device that anchors the community to the most ancient attested royal centre of Bengal — a structural feature of legitimating kulagranthas rather than a documentary claim.
 
-Basu's *Dakshin Rariya Kayastha-kanda* (1933: line 542) records a Buddhist-period affiliation for the Deva dynasty: "Not only the Naga, Chandra or Bhadra dynasty, but the Ghosh, Mitra, Guha, Singha, Das and Deva dynasty also show evidence of Buddhist religious affiliation." This is consistent with the broader pattern of Bengali upper-caste families who maintained Buddhist practice under Pala rule before the Sena-era return to Brahminical orthodoxy.
+This paper follows the kulagrantha tradition in noting the Karnasuvarna connection as the community's own account of its origins, while explicitly acknowledging that no independent evidence confirms the specific genealogical chain between the fifth-century capital and the thirteenth-century Deva kingdom. Living communities of the Deva/De/Dey family in western Bengal are still known as *"Kansona ke De"* — confirming a continuous community identity associated with this place-name (Basu, 1937: line 466, Category B), even if the ancient dynastic continuity claimed in the kulagrantha must be treated as tradition.
 
-### 3.2 Historical Background: The 13th-Century East Bengal Deva Kingdom
+### 4.2 Historical Background: The 13th-Century East Bengal Deva Kingdom
 
-Before the De/Dey surname can be understood as a hereditary Kayastha identifier crystallised in the medieval period, it must be situated in the political upheaval of thirteenth-century eastern Bengal. The Muslim conquest of Bengal under Muhammad Bakhtiyar Khilji (1204 CE) rapidly dismantled the Sena dynasty's authority (Minhaj-i-Siraj, tr. Raverty, 1881; Eaton, 1996: 32–38). Into the resulting vacuum in eastern Bengal rose the family of Purushottamadeva, a *gramani* (village headman) of the Comilla-Noakhali region.
+The *documented* history of the Deva dynasty begins in the thirteenth century. The Muslim conquest of Bengal under Muhammad Bakhtiyar Khilji (1204 CE) rapidly dismantled the Sena dynasty's authority (Minhaj-i-Siraj, tr. Raverty, 1881; Eaton, 1993: 32–38). Into the resulting vacuum in eastern Bengal rose the family of Purushottamadeva, a *gramani* (village headman) of the Comilla-Noakhali region.
 
 Purushottamadeva's son Madhusudanadeva was the first of the family to assume the title *nripati* (king). It is the fourth ruler, **Damodaradeva** (r. c. 1231–1243 CE), who left the most extensive documentary record, adopting the imperial designation *Ariraja-Chanura-Madhava-Sakala-Bhupati-Chakravarti* (Banglapedia, "Damodaradeva"; Roy, 1993: 412–416).
 
-### 3.3 The Copper-Plate Evidence
+### 4.3 The Copper-Plate Evidence (Category A — Corroborated)
 
-Three copper-plate land grants of Damodaradeva survive:
+Three copper-plate land grants of Damodaradeva survive and constitute the only Category A epigraphic evidence for the Deva dynasty:
 
 **The Mehar Copper Plate** (1234 CE, Comilla District): The earliest confirmed Deva dynasty grant, establishing territorial control over Samatata.
 
@@ -93,9 +129,11 @@ Three copper-plate land grants of Damodaradeva survive:
 
 Damodaradeva's successor, **Dasharathadeva**, left the Adabadi copper plate and is recorded in the alliance (*ahad-namah*) with Delhi Sultan Ghiyasuddin Balban, dated by Majumdar (1960) to c. 1282 CE. The dynasty maintained its last stronghold at Sonargaon until approximately **1317 CE**, when Shamsuddin Firuz Shah's forces took the city (Yahya bin Ahmad, 15th century; Banglapedia, "Danauja Rai").
 
-### 3.4 The Ten Gotras of the Deva Dynasty
+Critically, none of the surviving copperplates record the Deva dynasty's gotra, genealogical founder, or connection to Karnasuvarna. The royal *prashastis* employ the conventional Somavamsa ("lunar dynasty") formula borrowed from Sena chancery usage — a legitimating formula that Majumdar (1971: 230) characterises as standard political rhetoric rather than genealogical fact.
 
-Basu's *Rajanya Kanda* (1914) enumerated seven gotras; his *Dakshin Rariya Kayastha-kanda* (1933) adds three more, bringing the confirmed total to **ten**. The primary Sanskrit verse from the Dakshin Rariya Kulpanjika (Basu, 1933: line 466):
+### 4.4 The Ten Gotras of the Deva Dynasty (Category B — Tradition-Internal)
+
+The kulagrantha tradition transmitted by Basu records a ten-gotra structure for the Deva dynasty. The primary Sanskrit verse, from the Dakshin Rariya Kulpanjika (Basu, 1933: line 466):
 
 > *আলম্যানো গৌতমশ্চ ঘৃতকৌশিক এবচ।*
 > *মোদগলাঃ কাস্পো বাতস্ত শণ্ডিলাশ্চ পরাশরঃ।*
@@ -105,87 +143,95 @@ Basu's *Rajanya Kanda* (1914) enumerated seven gotras; his *Dakshin Rariya Kayas
 
 | # | Gotra | Notes |
 |---|-------|-------|
-| 1 | Shandilya | Kulanayak — senior/ruling branch |
-| 2 | Moudgalya | Raja Radhakanta Deb's gotra |
+| 1 | Shandilya | Kulanayak — senior/ruling branch in kulagrantha tradition |
+| 2 | Moudgalya | Raja Radhakanta Deb's gotra (Karnaswarnapur samaj) |
 | 3 | Vatsa | |
 | 4 | Parashar | |
 | 5 | Bharadvaja | Ramdhulal Sarkar's gotra (Dakshin Radhi) |
-| 6 | Alamyan | Ancient Pala-era Deva line |
+| 6 | Alamyan | |
 | 7 | Gautama | |
-| 8 | Kashyapa | |
+| 8 | Kashyapa | Chitrapur samaj association |
 | 9 | Ghritakaushika | Possibly = "Dvatkausika" in Rajanya Kanda |
 | 10 | Vashishtha | |
 
-The **Shandilya** gotra holds the role of *kulanayak* (senior clan head). Batu Bhatta's verse, quoted in both the *Rajanya Kanda* (1914) and *Kayastha Kanda* (1937), states explicitly: *"শাণ্ডল্যদেবান্চ সর্ব ভবস্ত কুলনায়কাঁঃ"* — "The Shandilya Devas were ALL the kulanayakas."
+This ten-gotra schema is assessed as **Category B**: consistent with the broader pattern of gotra attributions attested across Dakshin-Radhi and Bangaja kulagranthas — the Indpaedia summary of the Siddha-Maulika system, for instance, corroborates the multi-gotra structure and the specific samaj-to-gotra associations for the Moudgalya and Kashyapa branches — but without independent epigraphic confirmation. No inscription or copperplate of the historical Deva rulers records any gotra. The gotra schema should be understood as the community's tradition for organising the ten branches of the Dey lineage, not as a fact of medieval history verified by documentary sources external to the kulagrantha tradition itself.
 
-The **Moudgalya** branch produced Raja Sir Radhakanta Deb Bahadur KCSI (1784–1867) of the Shovabazar Raj — author of the *Shabdakalpadruma*, the eight-volume Sanskrit encyclopaedic dictionary. Basu (*Rajanya Kanda*, 1914: line 3898) identifies him explicitly as *"মৌদগল্য গোত্রীয় দেববংশোদ্তব"* — "born of Moudgalya gotra Deva lineage."
+The **Moudgalya** branch produced Raja Sir Radhakanta Deb Bahadur KCSI (1784–1867) of the Shovabazar Raj — author of the *Shabdakalpadruma*, the eight-volume Sanskrit encyclopaedic dictionary. Basu's kulagrantha compilation (*Rajanya Kanda*, 1914: line 3898) identifies him as *"মৌদগল্য গোত্রীয় দেববংশোদ্তব"* — "born of Moudgalya gotra Deva lineage." This attribution is consistent with the Endangered Archives Programme's catalogue of the Sobhabazar Deb family papers (EAP1104/2), which lists a *Kayastha-Karika o Bamshabali* manuscript among the family's holdings.
 
-### 3.5 The Critical Distinction: Two Persons Named Danujamardana
+### 4.5 The Contested Identity of Danujamardana: Three Scholarly Positions
 
-A historiographical error pervades popular accounts of the Deva dynasty. Early scholarship — including Basu's own *Rajanya Kanda* in its first edition (1914) — conflated **two entirely different persons** who bear the name or title *Danujamardana*:
+The figure of Danujamardana is the most historiographically contested element of the Deva dynasty narrative. Three distinct scholarly positions should be distinguished:
 
-**Person A — Dasharathadeva (*Danujamadhava*)** (13th century): The last great Sonargaon king; patron of Hari Misra; reformer of the Kayastha kulina system; stronghold fell to Shamsuddin Firuz Shah c. **1317 CE**.
+#### Position 1: Dominant Numismatic-Historiographic View (Bhattasali, Majumdar, Banglapedia)
 
-**Person B — Danujamardana Dev** (15th century): Ruler at **Chandradwip** (Barisal region), c. 1417 CE; **Shandilya gotra**; copper coins dated Shakabda 1339 (= 1417 CE); organised the Bangaja Kayastha community.
+The silver tankas of c. 1416–1418 CE bearing the legends *śrī śrī danujamarddana deva* and *śrī chaṇḍī charaṇa parāyaṇa*, struck at Pandunagar, Suvarnagram, and Chatigram, are identified by the mainstream numismatic tradition as **coins of Raja Ganesha of Bhaturia (Dinajpur)** — a North Bengal Hindu zamindar who briefly usurped the Ilyas Shahi sultanate and employed a Sanskrit royal title as part of that usurpation.
 
-Basu corrects this conflation in three successive publications. The most succinct statement is Footnote 183 of the *Kayastha Kanda* (1937: line 2710):
+This identification was established by N.K. Bhattasali (*Coins and Chronology of the Early Independent Sultans of Bengal*, Cambridge, 1922) and corroborated by Sarkar (1985: 52), Majumdar (1960: 204–207, 406, 827), and the online *Banglapedia* entry "Raja Ganesha," which explicitly redirects "Danujamardanadeva" to Raja Ganesha. On this dominant view, Danujamarddana is not a Chandradwip Kayastha, not of Karnasuvarna Shandilya-gotra origin, and not a separate figure from the briefly reigning Hindu king of North Bengal.
 
-> *"মূল পুথি হইতে নকলকারীর দোষে এক স্থানে 'দনুজমর্দন' স্থানে 'দনুজমাধব' পাঠ পাইয়া এরূপক্রমে পূর্বে দনুজমাধবদেব ও দনুজমর্দনদেবকে অভিন্ন বলিয়া লিপিবদ্ধ করিয়াছিলাম। এখন উভয়ে ভিন্ন বংশীয় ও ভিন্ন সময়ের লোক বলিয়াই প্রতিপন্ন হইতেছেন।"*
+#### Position 2: Minority Revisionist View (Dani, Eaton)
 
-"Due to a copyist's error in the original manuscript, reading 'Danujamardana' as 'Danujamadhava' in one place, I had previously recorded Danujamadhava Deva and Danujamardana Deva as the same person. Now it is established that the two are persons of **different lineages and different periods**." (Basu, 1937: fn. 183)
+Ahmad Hasan Dani and Richard Eaton (*The Rise of Islam and the Bengal Frontier*, 1993: 51, 53–55) propose that Danujamarddana and Raja Ganesha were two distinct persons. In Eaton's reading, a Chandradvipa-based ruler bearing the Danujamarddana title was a descendant of the Sonargaon Deva dynasty — a continuator of the tradition of Dasharatha-Danujamadhava, not a North Bengal figure. However, even on Eaton's minority revisionist view, the Chandradwip ruler is understood as descending from the Sonargaon Deva dynasty, **not** as a separate Kayastha lineage with independent Shandilya-gotra Karnasuvarna origins. Eaton (1993: 51) additionally argues that the "Pandunagara" mint may be Chhota Pandua in Hooghly district — a geographic identification that complicates the straightforward southern-Bengal Chandradwip attribution of the coins.
 
-The established chronology: **c. 1231–1317 CE**: Deva dynasty of Bikrampur/Sonargaon (Dasharathadeva/*Danujamadhava*); **1317 CE**: Sonargaon falls; **1318 CE**: Vikramaditya Dev — younger brother of the last Sonargaon ruler — founds Chandradwip; **c. 1414–1418 CE**: Danujamardana Dev (Shandilya gotra) organises the Bangaja Kayastha system from Chandradwip.
+#### Position 3: Kulagrantha Tradition (Basu, following the Chandradwip ghatak records)
 
-### 3.6 The Caste Identity of the Deva Kings
+Basu's compilation of the kulagrantha tradition presents a third position: Danujamarddana Dev of Chandradwip (c. 1417 CE) was a distinct figure from Dasharathadeva (*Danujamadhava*) of Sonargaon, was of Shandilya gotra, and was the organiser of the Bangaja Kayastha community system. Basu corrects his own earlier conflation of the two in three successive volumes (1914, 1933, and the later Kayastha Kanda, fn. 183), arriving at the formulation: *"ভিন্ন বংশীয় ও ভিন্ন সময়ের লোক"* — "persons of different lineages and different periods." The kulagrantha tradition preserved at Chandradwip and Idilpur consistently presents this Bangaja community-organising function as attached to a local Kayastha ruler, distinct from the sultanic and sub-sultanic context of the Bhattasali numismatic record.
 
-The Banglapedia article on "Danauja Rai, Raja" (Khan, 2012) states explicitly that the Chandradipa kingdom was established by "Danauja Rai **Kayastha** who was the same person as Danauja Rai, the Raja of Sonargaon." Basu's *Kayastha Kanda* (1937) preserves Dwija Bachaspati's verse on the Chandradwip Danujamardana's role: *"দনুজমর্দন রাজা চন্দ্রদ্বীপপতি। সেই হেল বঙ্গজ কায়স্থগোষ্ঠীপতি।"* — "Danujamardana, having gone to Chandradwip as king, became the *goshtipati* (community head) of the Bangaja Kayasthas." A king who is not a member of a caste does not reform that caste's internal hierarchy.
+#### Assessment
 
-The Kshatriya titles in the copper plates (*Somavamsa-pradipa*, "light of the lunar dynasty") are borrowed formulae copied from Sena prashastis and represent political legitimation strategy rather than genuine genealogical claim, as the Banglapedia itself acknowledges. Majumdar noted that the Pala, Sena, Chandra, and Varman dynasties "almost imperceptibly merged" with the Kayastha caste upon achieving royal status (cited in Inden, 1976: 3–4).
+This paper's genealogical narrative follows **Position 3** as transmitted in the kulagrantha tradition, because it is the position relevant to the internal social history of the Bangaja Kayastha community — the question of who organised the Dey family's social classification. It is important, however, to be explicit: the dominant position in the post-1922 numismatic-historiographic literature (**Position 1**) identifies the Danujamarddana coins with Raja Ganesha of Bhaturia, not a Chandradwip Kayastha. For the purposes of the De/Dey genealogical tradition, what matters is that kulagrantha records — independent of the numismatic debate — consistently locate the organising centre of Bangaja Kayastha social classification at Chandradwip, and that this social-organisational claim has a history traceable through the ghatak records regardless of which individual struck the Shakabda 1339–1340 coins. The Banglapedia article on the *Madhabpasha Zamindar Family*, which independently records the Chandradwip Kayastha association, draws on the same idilpur ghatak records as Basu and is therefore not independent confirmation; this limitation is acknowledged.
 
-### 3.7 The 14 Samajes (Territorial Units) of the Deva Dynasty
+The established chronology within the kulagrantha tradition is: **c. 1231–1317 CE**: Deva dynasty of Bikrampur/Sonargaon (Dasharathadeva/*Danujamadhava*); **1317 CE**: Sonargaon falls; **1318 CE**: Vikramaditya Dev — younger brother of the last Sonargaon ruler — founds Chandradwip; **c. 1414–1418 CE**: the Chandradwip ruling lineage, in the kulagrantha tradition, organises the Bangaja Kayastha system under the Danujamardana Dev designation.
 
-Basu's *Dakshin Rariya Kayastha-kanda* (1933: lines 1047–1049) preserves a verse listing the fourteen *samajes* (social-territorial units) of the Deva dynasty. **Karnasuvarnpur** is listed first — confirming it as the ancestral capital — followed by Chitrapura, Bhadra, Bhuali, Bairata, Indrani, Chaurgram, Debgram, Nilpur, Karnpur, Chagram, Gaurcchatt, Madul, and Garipa. This territorial organisation explains why the De/Dey family is found across a wide geographic range: the 14 samajes represent the administrative footprint of the dynasty's influence, from Murshidabad in the west to the Barisal delta in the east.
+### 4.6 The Caste Identity of the Deva Kings (Category B — Tradition-Internal)
 
-### 3.8 The Surname Crystallisation Mechanism
+The Banglapedia article on "Danauja Rai, Raja" (Khan, 2012) states explicitly that the Chandradipa kingdom was established by "Danauja Rai **Kayastha**." Basu's kulagrantha compilation preserves Dwija Bachaspati's verse on the Chandradwip figure's role: *"দনুজমর্দন রাজা চন্দ্রদ্বীপপতি। সেই হেল বঙ্গজ কায়স্থগোষ্ঠীপতি।"* — "Danujamardana, having gone to Chandradwip as king, became the *goshtipati* (community head) of the Bangaja Kayasthas."
 
-The connection between the Deva dynasty and the De/Dey surname does not rest on a claim that all Bengali Deys are genealogical descendants of the Deva kings. The argument is more precise: the administrative families — scribes, revenue officials, record-keepers — who served the Deva dynasty adopted the *deva* element as a hereditary surname *at the moment of the dynasty's collapse*. The disruption of Islamic conquest catalysed the crystallisation of many Bengali Hindu surnames. The administrative Kayasthas who had dealt with copper plates, revenue grants, and court records all stamped with the *deva* element adopted that element as their permanent surname. In the terminology of the kulagranthas, this is why the De/Dey family is classified as *maulika* (indigenous Bengal stock) rather than *kulin* (Kannauj migrants).
+The Kshatriya titles in the copper plates (*Somavamsa-pradipa*, "light of the lunar dynasty") are borrowed formulae copied from Sena *prashastis* and represent political legitimation strategy rather than genuine genealogical claim. Majumdar noted that the Pala, Sena, Chandra, and Varman dynasties "almost imperceptibly merged" with the Kayastha caste upon achieving royal status (cited in Inden, 1976: 3–4).
+
+### 4.7 The 14 Samajes: Territorial Units of the Bangaja System (Category B — Tradition-Internal)
+
+Basu's *Dakshin Rariya Kayastha-kanda* (1933: lines 1047–1049) preserves a verse listing fourteen *samajes* (social-territorial units) associated with the Deva dynasty: **Karnasuvarnpur** (first), Chitrapura, Bhadra, Bhuali, Bairata, Indrani, Chaurgram, Debgram, Nilpur, Karnpur, Chagram, Gaurcchatt, Madul, and Garipa.
+
+The samaj system as a social-territorial unit is well-attested in the Dakshin-Radhi kulagrantha corpus and in Inden's analysis (1976: 45–62). However, the chronological interpretation of this list requires care. As Inden (1976) and Sekhar Bandyopadhyay (2004: 18–25) establish, the kulina-maulika ranking system was substantially a product of the fourteenth to seventeenth centuries, not a direct reflection of fifth-to-thirteenth-century dynastic geography. The 14-samaj list is assessed as **Category B**: the list reflects genuine social-territorial organisation of the Bangaja Kayastha system as it crystallised in the medieval and early modern periods, but the implicit claim that this geography maps directly onto a 5th-to-13th-century Deva *dynastic* organisation overstates the documentary basis. The list is presented here as evidence of how the community understood its territorial distribution in the kulagrantha tradition, not as a seventh-century administrative record.
+
+### 4.8 The Surname Crystallisation Mechanism
+
+The connection between the Deva dynasty and the De/Dey surname does not rest on a claim that all Bengali Deys are genealogical descendants of the Deva kings. The argument is more precise: the administrative families — scribes, revenue officials, record-keepers — who served the Deva dynasty and adopted the *deva* element as a hereditary surname did so *in the context of the dynasty's dominance and subsequent collapse*. The disruption of the 1317 fall catalysed the crystallisation of many Bengali Hindu surnames. The administrative Kayasthas who dealt with copper plates, revenue grants, and court records all stamped with the *deva* element adopted that element as their permanent surname. In the terminology of the kulagranthas, this is why the De/Dey family is classified as *maulika* (indigenous Bengal stock) rather than *kulin* (Kannauj migrants).
 
 ---
 
-## 4. Social Classification: The Kayastha Hierarchy and the Place of De/Dey
+## 5. Social Classification: The Kayastha Hierarchy and the Place of De/Dey
 
-### 4.1 Bengal's Distinctive Social Structure
+### 5.1 Bengal's Distinctive Social Structure
 
-As Sanyal (1971) established and McLean (1998) elaborated, Bengal operated in practice on a two-Varna structure: Brahmin and, collectively, non-Brahmin. Kshatriya and Vaishya categories were functionally absent as self-reproducing, endogamous Bengali social units. Within the non-Brahmin category, three castes achieved recognised upper-caste (*uchchajati*) status: Brahmin, Baidya, and Kayastha. These three constituted the *bhadralok* class that dominated Bengal's intellectual, administrative, and commercial life from the fourteenth century onward (Bandyopadhyay, 2004: 20).
+As Sanyal (1971) established and McLean (1998) elaborated, Bengal operated in practice on a two-Varna structure: Brahmin and, collectively, non-Brahmin. Kshatriya and Vaishya categories were functionally absent as self-reproducing, endogamous Bengali social units. Within the non-Brahmin category, three castes achieved recognised upper-caste (*uchchajati*) status: Brahmin, Baidya, and Kayastha. These three constituted the *bhadralok* class that dominated Bengal's intellectual, administrative, and commercial life from the fourteenth century onward (Bandyopadhyay, 2004: 20). The timing of the Bengali Kayastha caste's emergence as a social category is itself debated: Bandyopadhyay (2004: 18–25) argues that the kulina-maulika system as we know it was primarily a product of medieval and early modern Bengal rather than a continuation of Gupta-era administrative categories.
 
 The Bengali Kayastha community derives from the administrative class (*kayastha*, "one who stands at the body [of the king]") documented in Gupta-era inscriptions, where *Prathama-Kayastha* (Chief Scribe) appears as an administrative title. Over the Pala (750–1174 CE) and Sena (c. 1070–1230 CE) periods, this professional class crystallised into a hereditary caste with its own internal hierarchy (Majumdar, 1971: 230–235; Inden, 1976: 1–10).
 
-### 4.2 The Vaishya Question: Settled by Primary Source Evidence
+### 5.2 The Vaishya Question: Evidence and Its Limits
 
 Before analysing the Kayastha hierarchy, it is necessary to address directly whether the De/Dey family may be Vaishya (merchant class) rather than Kayastha.
 
-Nagendranath Basu's *Baishya Kanda* (1913; 2nd ed. 1920) is the most comprehensive indigenous-language classification of Bengal's Vaishya communities, covering the full spectrum of Bengali merchant-class *jatis*: Souluk-Saha, Barendra Saha, Gandha Banik, Shankha Banik, Kamsa Banik, and Suvarna Banik communities.
+Nagendranath Basu's *Baishya Kanda* (1913; 2nd ed. 1920) is the most extensive indigenous-language compilation of genealogical material relating to Bengal's Vaishya communities, covering the full spectrum of Bengali merchant-class *jatis*: Souluk-Saha, Barendra Saha, Gandha Banik, Shankha Banik, Kamsa Banik, and Suvarna Banik communities. The Bengal Vaishya trading class centred on **Saha** surname families, whose origin tradition traces to the Chalukya dynasty (Solanki Rajputs of Gujarat): these communities are organisationally and genealogically separate from the De/Dey Kayastha lineage.
 
-**The surname De/Dey/Dev does not appear anywhere in this volume.** Not in genealogical lists, not in family histories, not in geographic surveys of merchant communities. The omission is complete and categorical.
+An important caveat is necessary here. Risley's *Tribes and Castes of Bengal* (1891: 216) lists "De" as a surname found — among others — in the Suvarna Banik community. Suvarna Banik is a major caste covered in the *Baishya Kanda*. A categorical claim that the De/Dey cognomen is entirely absent from the *Baishya Kanda* cannot be sustained without a complete and verified Bengali-language text-search of that volume, which lies beyond the scope of this paper. What can be said, with confidence, is that **De/Dey is not established as a primary genealogical lineage surname in Bengal's Vaishya community**, in the same foundational way that Saha, Shankha, Gandha, Kamsa, and Suvarna designate core Vaishya families. The De/Dey cognomen is primarily, and as its dominant social-historical use, a Kayastha surname: this is the consistent finding of Basu's Kayastha volumes, Risley's classification, and the colonial census record. The question — *are the Deys Kayastha or Vaishya as their primary caste identity?* — is answered **Kayastha** by all the available evidence. But the qualifier "primary" matters: the cognomen, like many Bengali surnames, crosses caste lines in secondary usage.
 
-The Bengal Vaishya trading class centred on **Saha** surname families (Souluk-Saha), whose origin tradition traces to the Chalukya dynasty (Solanki Rajputs of Gujarat). These communities are entirely separate from the De/Dey Kayastha lineage: different origin tradition, different gotra system, different social organisation. The answer to the question — *are the Deys Kayastha or Vaishya?* — is **Kayastha, definitively.**
-
-### 4.3 The Kulin System and Its Architecture
+### 5.3 The Kulin System and Its Architecture
 
 The internal hierarchy of Bengali Kayasthas is organised through the *kulīna* system, attributed in tradition to the Sena king Ballala Sena (r. c. 1158–1179 CE). Five Kayastha surnames achieved *kulīna* status through the legend of Kannauj migration: **Bose/Basu, Ghosh, Mitra, Guha,** and **Datta**.
 
 The historical veracity of this legend has been extensively questioned: Bellenoit (2017) identifies it as a nationalist narrative rather than documented history, and Pagani et al. (2017) found that individual Kayastha families designated as *kulin* show genuinely different genetic signatures — with some showing North Indian genetic affinity consistent with the Kannauj story, and others showing South Indian or indigenous Bengal affinity, inconsistent with a common migration event.
 
-Below the five Kulin clans, the Dakshina-Radhi tradition recognised the **Maulika** ("original/fundamental") families. The primary Sanskrit evidence for the De/Dey family's position within this tier is a verse from the Kulpradipa, quoted in Basu's *Dakshin Rariya Kayastha-kanda* (1933: lines ~1080–1090):
+Below the five Kulin clans, the Dakshina-Radhi tradition recognised the **Maulika** ("original/fundamental") families. A verse from the Kulpradipa, quoted in Basu's *Dakshin Rariya Kayastha-kanda* (1933: lines ~1080–1090), enumerates these:
 
 > *"প্রথমে দেববংশ দত্ত কর পালিত।*
 > *সেন সিংহ দাস ওত বিচার সঙ্গত।"*
 
-"**First: Deva dynasty**, Datta, Kar, Palita. Sen, Singha, Das — these are considered by proper deliberation [as the 8 Siddha Maulika families]."
+"Deva-dynasty, Datta, Kar, Palita. Sen, Singha, Das — these are considered by proper deliberation [as the 8 Siddha Maulika families]."
 
-**The Deva (De/Dey) dynasty is named first among the eight Siddha Maulika families in the Dakshin Radhi classification.**
+The Deva-bamsha (*devabamsha*) is **listed first in the verse's metrical enumeration** of the eight Siddha Maulika families. As Inden (1976: 52–55) observes, verse-internal ordering in kulagrantha lists is primarily metrical and incantatory rather than strictly hierarchical — in some regional traditions, Dutta is conventionally accorded first rank within the Siddha Maulika tier. The significance of the verse is therefore better stated as: the Deva dynasty is named as one of the eight Siddha Maulika families across all attestations of the Kulpradipa tradition, an attested position (Category B) that reflects genuine status within the Dakshin-Radhi hierarchy.
 
-### 4.4 The Bangaja System: East Bengal's Parallel Hierarchy
+### 5.4 The Bangaja System: East Bengal's Parallel Hierarchy (Category B — Tradition-Internal)
 
 The Dakshina-Radhi system described above governed primarily western Bengal. Eastern Bengal — the *Vangaja* ("born of Vanga") tradition — developed a parallel system organised under the patronage of the Deva dynasty. Basu's *Dakshin Rariya Kayastha-kanda* (1933: lines 1097–1105) quotes Brihaspati's *Bangaja Kayastha Karika*:
 
@@ -206,58 +252,55 @@ The full Bangaja classification:
 
 **Mahapatra is the highest of the three Maulika sub-tiers.** A family classified as Maulika Mahapatra occupies the third tier of the full Bangaja hierarchy — below only the five Kulin families and the Bansaj hereditary lineages.
 
-The nineteen Mahapatra families of the Bangaja system are confirmed via Dwija Bachaspati's *Bangaja Kulaji Sara Sangraha*, quoted in both the *Rajanya Kanda* (1914) and *Dakshin Rariya Kayastha-kanda* (1933). The Sanskrit verse:
+A critical qualification follows from Inden's analysis: **Mahapatra status in the Bangaja system was awarded to a specific branch of a specific family of a specific gotra** — not to all Dey families across the board (Inden, 1976: 46). Readers should not infer that all Bengali Deys, or all Bangaja Deys, automatically hold Mahapatra rank. The rank is lineage-specific, and its practical application was adjudicated by the *ghataka* at individual marriages.
 
-> *"রাহো ভদ্রধরৌ নন্দী **দেবকুণ্ড**শ্চ সোমকঃ।*
-> *এতে সপ্তবিংশতি কায়স্থাঃ বংশহেতুঃ প্রতিষ্ঠিতাঃ।"*
+The nineteen Mahapatra families of the Bangaja system are confirmed via Dwija Bachaspati's *Bangaja Kulaji Sara Sangraha* and cross-attested in the Brihaspati Bangaja Karika, both preserved in Basu's volumes and consistent with the 19-family lists in independent kulagrantha summaries in Indpaedia (Category B).
 
-"...Raha, Bhadra, Dhara, Nandi, **Deva**, Kunda, Soma... — these twenty-seven Kayasthas are established as the family founders. Those other than these, even royal sons, are never Kayasthas." **Deva (= De/Dey/Deb) is #19 of the 27 proper Bangaja Kayastha families** (Basu, 1933: lines 1067–1068; Basu, 1937: line ~2707).
+Confirmation by geographic exclusion: Basu's *Uttarrariya Kayastha-kanda* (1929) covers seven North Radhi Kayastha families and does not include the Deva dynasty — positively confirming that the De/Dey family is a **Bangaja** (East Bengal) family, not a North Radhi family (Category B).
 
-Confirmation by geographic exclusion: Basu's *Uttarrariya Kayastha-kanda* (1929) covers seven North Radhi Kayastha families (Mitra, Datta, Ghosh, Das, Singha, Kar) and does not include the Deva dynasty — positively confirming that the De/Dey family is a **Bangaja** (East Bengal) family, not a North Radhi family.
+### 5.5 The Dual Classification and Its Implications
 
-### 4.5 The Dual Classification and Its Implications
-
-The De/Dey family occupies two parallel positions:
-- **Dakshin-Radhi** (western Bengal): Siddha Maulika, ranked **first** among eight families
-- **Bangaja** (eastern Bengal): **Mahapatra** — highest Maulika sub-tier, comprising nineteen families
+The De/Dey family occupies two parallel positions in the kulagrantha tradition:
+- **Dakshin-Radhi** (western Bengal): Siddha Maulika, listed in the first position in the Kulpradipa metrical verse naming the eight families
+- **Bangaja** (eastern Bengal): **Mahapatra** — highest Maulika sub-tier, comprising nineteen specific lineage branches
 
 For eastern Bengal Dey families — including those of Mymensingh — the Bangaja classification is the operative one.
 
-### 4.6 The Chandradwip Continuity and the Idilpur Archive
+### 5.6 The Chandradwip Continuity and the Idilpur Archive
 
-The Bangaja social system was administered for approximately five centuries from **Chandradwip** (modern Barisal district), the principality established by Vikramaditya Dev around 1318 CE. Basu's *Dakshin Rariya Kayastha-kanda* (1933: line 39) notes that original *kulagrantha* manuscripts may still be found in the homes of the genealogists and *svarnaamatyas* of Chandradwip or **Idilpur** (*"চন্দ্রদ্বীপ বা ইদিলপুরের কুলাচার্য্য ও স্বর্ণামাত্যগণের গৃহে রীতিমত অনুসন্ধান করিলে পাওয়া যাইতে পারে"*). Idilpur (modern Idilpur, Bhola district, Bangladesh) remains the primary archival target for Bangaja Dey genealogical records going back to the fourteenth century.
+The Bangaja social system was administered for approximately five centuries from **Chandradwip** (modern Barisal district). Basu's *Dakshin Rariya Kayastha-kanda* (1933: line 39) notes that original *kulagrantha* manuscripts may still be found in the homes of the genealogists of Chandradwip or **Idilpur** (*"চন্দ্রদ্বীপ বা ইদিলপুরের কুলাচার্য্য ও স্বর্ণামাত্যগণের গৃহে রীতিমত অনুসন্ধান করিলে পাওয়া যাইতে পারে"*). Idilpur (modern Idilpur, Bhola district, Bangladesh) remains the primary archival target for Bangaja Dey genealogical records going back to the fourteenth century — should they survive the disruptions of the twentieth century.
 
 ---
 
-## 5. Colonial Documentation: Census, Ethnography, and the Courts
+## 6. Colonial Documentation: Census, Ethnography, and the Courts
 
-### 5.1 Risley's *Tribes and Castes of Bengal*
+### 6.1 Risley's *Tribes and Castes of Bengal*
 
-Risley's two-volume *The Tribes and Castes of Bengal* (1892: 216) lists "De" as a surname associated primarily with Kayastha communities but also found among "Suvarna Banik, Teli, Tili Barujibi, Kansari, Tambuli, Baishya Kapali, Tanti and some other castes of Bengal." This multi-caste distribution confirms that the De/Dey cognomen is not the exclusive property of any single *jati*, though the Kayastha tradition is the historically dominant one.
+Risley's two-volume *The Tribes and Castes of Bengal* (1891: 216) lists "De" as a surname associated primarily with Kayastha communities but also found among "Suvarna Banik, Teli, Tili Barujibi, Kansari, Tambuli, Baishya Kapali, Tanti and some other castes of Bengal." This multi-caste distribution confirms the point made in Section 5.2: the De/Dey cognomen, while primarily a Kayastha identifier, crosses caste lines in secondary usage.
 
-Risley's broader classification of Bengali Kayasthas as Shudra was deeply contested by the Bengali Kayastha community, which formed the Kayastha Sabha and published the *Kayastha Patrika* journal (Bellenoit, 2023: 43–50). The 1884 judicial determination in *Rajcoomar Lal v. Bissessur Dayal* — that Bengali Kayasthas were Shudra — enraged the community and produced decades of identity activism.
+Risley's broader classification of Bengali Kayasthas as Shudra was deeply contested by the Bengali Kayastha community, which formed the Kayastha Sabha and published the *Kayastha Patrika* journal (Bellenoit, 2023: 43–50) — the same organisations founded and edited by Nagendranath Basu. The 1884 judicial determination in *Rajcoomar Lal v. Bissessur Dayal* — that Bengali Kayasthas were Shudra — enraged the community and produced decades of identity activism.
 
-### 5.2 The Bengal Census Series (1872–1931)
+### 6.2 The Bengal Census Series (1872–1931)
 
 J.H. Hutton, Census Commissioner for 1931, wrote that Kayastha is "an important caste, which in Bengal 'ranks next to Brahman'"; the caste was by 1931 "commonly regarded as twice-born" and "itself claims to be Kshatriya, though it was perhaps more often regarded as clean Sudra a hundred years ago" (Hutton, 1961: 65). This trajectory reflects the social mobility of the *bhadralok* class during the colonial period.
 
-Richard Eaton's formulation captures the structural tension: the Bengali Kayastha community became "the region's surrogate Kshatriya or warrior class" — performing Kshatriya functions without receiving Kshatriya ritual recognition (Eaton, 1996: 102).
+Richard Eaton's formulation captures the structural tension: the Bengali Kayastha community became "the region's surrogate Kshatriya or warrior class" — performing Kshatriya functions without receiving Kshatriya ritual recognition (Eaton, 1993: 102).
 
-### 5.3 The Mughal Record
+### 6.3 The Mughal Record
 
 The *Ain-i-Akbari* (c. 1590s) records Bengal's administrative structures during the Akbar period. Bengali Kayasthas were among the most prominent beneficiaries of Todar Mal's revenue settlement — their literacy and administrative experience making them invaluable as zamindars, revenue officials, and court clerks. The Sachse *Gazetteer of Mymensingh District* (1917) notes: "Most of the zamindars belong to Brahman or Kayastha families."
 
 ---
 
-## 6. Genetic Evidence: The De/Dey Family and Population Genetics
+## 7. Genetic Evidence: The De/Dey Family and Population Genetics
 
-### 6.1 The Bengali Genetic Profile
+### 7.1 The Bengali Genetic Profile
 
 The foundational framework established by Reich et al. (2009) identified two ancestral South Asian populations: Ancestral North Indians (ANI) and Ancestral South Indians (ASI). This was substantially refined by Narasimhan et al. (2019), which established that steppe-related ancestry entered South Asia in the early second millennium BCE, carried by pastoralists via the Bactria-Margiana Archaeological Complex; and that modern South Asian upper castes carry approximately 15–30% steppe ancestry.
 
 Bengali populations carry a third component absent in most other South Asian mainland communities: East Asian-related ancestry at approximately 7–15%, reflecting ancient Austro-Asiatic (Munda-related) admixture (Chaubey et al., 2011: 1013–1024). For East Bengali communities, including those from Mymensingh, the East Asian component is approximately 13–15%.
 
-### 6.2 Pagani et al. (2017): Direct Genetic Evidence for a Dey Individual
+### 7.2 Pagani et al. (2017): Direct Genetic Evidence for a Dey Individual
 
 The only published direct genetic test of a Bengali Dey individual appears in Pagani, Bose, Ayub, and Tyler-Smith (2017), "Kayasthas of Bengal: Legends, Genealogies, and Genetics," *Economic and Political Weekly* 52(47): 44–53.
 
@@ -279,31 +322,33 @@ The only published direct genetic test of a Bengali Dey individual appears in Pa
 
 Pagani et al. (2017) state: "While Bose and Pal lineages seem to indicate a predominant origin in Uttar Pradesh and western India, **the Dey lineage points to modern south Indians as their best genetic match**."
 
-**Interpretation**: The H1a* Y-haplogroup and the South Indian autosomal affinity of the Dey lineage converge on a coherent historical interpretation: the paternal line of the Bengali Dey family is not steppe-derived, and the autosomal ancestry reflects higher AASI composition than the kulin families. This is precisely what the kulagrantha classification predicts: Deys are *maulika* — original Bengal stock, not Kannauj migrants.
+**Interpretation**: The H1a* Y-haplogroup and the South Indian autosomal affinity of the Dey lineage converge on a coherent historical interpretation: the paternal line of this Bengali Dey family is not steppe-derived, and the autosomal ancestry reflects higher AASI composition than the kulin families. This is consistent with the kulagrantha classification of Deys as *maulika* — original Bengal stock, not Kannauj migrants.
 
-### 6.3 Limitations and Required Further Research
+### 7.3 Limitations and Required Further Research
 
-The Pagani et al. (2017) study carries acknowledged limitations: the Dey sample consists of a single individual (n=1). A dedicated genetic study of Bengali Dey families — ideally sampling 20–50 males with geographic stratification — is urgently needed. Full Y-chromosome sequencing (FamilyTreeDNA Big Y-700) would resolve the H1a* haplogroup to its precise subclade.
+The Pagani et al. (2017) study carries acknowledged limitations that require explicit statement here: the Dey result derives from a **single individual** (n=1). A single Y-haplogroup result cannot be treated as representative of the Dey community, which the ten-gotra schema itself indicates comprises multiple distinct patrilineal branches. It is entirely possible that different gotra branches of the De/Dey lineage carry different Y-haplogroups — and indeed the contrast between the Dey H1a* result and the North Indian affinity shown by some *kulin* families in the same study suggests that even within the Kayastha community, different lineages have distinct genetic histories.
+
+A dedicated genetic study of Bengali Dey families — ideally sampling 20–50 males with geographic stratification (West Bengal vs East Bengali / Bangladeshi; Mahapatra vs other lineages) — is urgently needed before the H1a* haplogroup can be treated as characteristic of the De/Dey family as a whole. Full Y-chromosome sequencing (FamilyTreeDNA Big Y-700) would resolve the H1a* haplogroup to its precise subclade and place it in the global phylogenetic tree with far greater resolution than the SNP-chip results reported in Pagani et al. (2017).
 
 ---
 
-## 7. The Deys of Mymensingh: A Micro-Historical Case Study
+## 8. The Deys of Mymensingh: A Micro-Historical Case Study
 
-### 7.1 The Historical Context
+### 8.1 The Historical Context
 
 Mymensingh district — the vast, riverine district of north-eastern Bengal straddling the lower Brahmaputra valley — provides the geographical setting for one recoverable chapter of the De/Dey family history in the twentieth century. The district's 4.5 million inhabitants in 1911 were nearly three-quarters Muslim; the district town of Mymensingh (formally "Nasirabad"), however, was overwhelmingly Hindu — 78% of the town population in the last pre-Partition census. The Sachse *Gazetteer of Mymensingh District* (1917) confirms: "Most of the zamindars belong to Brahman or Kayastha families."
 
 Nirad C. Chaudhuri's *Autobiography of an Unknown Indian* (1951) — cited in Pagani et al. (2017) for its account of Mymensingh Kayastha endogamy — illustrates the social world of the district's Hindu elite: a world of interlocking kinship networks, strict marriage hierarchy, and intense consciousness of *kula* (clan) status.
 
-Crucially, Basu's own primary source network extended into this district. The *Kayastha Kanda* (1937: line 358) identifies **Gobindachandra Deb Roy** — High Court advocate, resident of western Mymensingh — as the man who sent Basu the Batu Bhatta kulagrantha manuscript: *"অধুনা পশ্চিম ময়মনসিংহবাসী হাইকোর্টের উকীল প্রযুক্ত গোবিন্দচন্দ্র দেব রায় মহাশয় পুথিখানি পাঠাইয়াছেন। পুরুষানুক্রমে এই কুলগ্রন্থখানি তাহাদের গৃহে শ্রাদ্ধাদিকালে পঠিত হইয়া আসিতেছে।"* — "From generation to generation, this kulagrantha has been recited at shraddha ceremonies in their home." The manuscript was held by **Kshitindra Deb Roy** of Purya village, Mymensingh.
+Crucially, Basu's own primary source network extended into this district. The Kayastha Kanda (1937: line 358) identifies **Gobindachandra Deb Roy** — High Court advocate, resident of western Mymensingh — as the man who sent Basu the Batu Bhatta kulagrantha manuscript: *"অধুনা পশ্চিম ময়মনসিংহবাসী হাইকোর্টের উকীল প্রযুক্ত গোবিন্দচন্দ্র দেব রায় মহাশয় পুথিখানি পাঠাইয়াছেন। পুরুষানুক্রমে এই কুলগ্রন্থখানি তাহাদের গৃহে শ্রাদ্ধাদিকালে পঠিত হইয়া আসিতেছে।"* — "From generation to generation, this kulagrantha has been recited at *shraddha* ceremonies in their home." The manuscript was held by **Kshitindra Deb Roy** of Purya village, Mymensingh. This chain of transmission — Kshitindra Deb Roy → Gobindachandra Deb Roy → Basu — is a single-manuscript provenance of the kind Chatterjee (2005) and Inden (1976) caution against treating as independently verified history. The manuscript has not, to this author's knowledge, been deposited in a public collection or examined by a scholar other than Basu. This limitation is acknowledged explicitly.
 
-Gobindachandra Deb Roy was a contemporary of Aswini Kumar De — both were Bangaja Deva/Dey family members operating in the same Mymensingh district during the 1910s–1930s. The living kulagrantha tradition of the Deva dynasty was maintained in Mymensingh at precisely the moment Aswini Kumar De was running his umbrella business from Burra Bazar.
+Gobindachandra Deb Roy was a contemporary of Aswini Kumar De — both were Bangaja Deva/Dey family members operating in the same Mymensingh district during the 1910s–1930s.
 
-### 7.2 *Loke Nath Sen v. Aswini Kumar Dey* (AIR 1938 Cal 216)
+### 8.2 *Loke Nath Sen v. Aswini Kumar Dey* (AIR 1938 Cal 216)
 
 The primary surviving documentary record for the De/Dey family of Mymensingh in this period is a published judgment of the Calcutta High Court: *Loke Nath Sen v. Aswini Kumar Dey*, decided on 1 September 1937 by Justice Biswas, reported at AIR 1938 Cal 216.
 
-**The parties**: The complainant — **Aswini Kumar De** (rendered "Dey" in the case title, reflecting East Bengali orthographic variation documented in Section 2.2) — was an umbrella manufacturer operating from **Mymensingh Burra Bazar**. The accused, **Loke Nath Sen**, had manufactured and sold umbrellas deliberately imitating Aswini Kumar De's brand.
+**The parties**: The complainant — **Aswini Kumar De** (rendered "Dey" in the case title, reflecting East Bengali orthographic variation documented in Section 3.2) — was an umbrella manufacturer operating from **Mymensingh Burra Bazar**. The accused, **Loke Nath Sen**, had manufactured and sold umbrellas deliberately imitating Aswini Kumar De's brand.
 
 **The brand**: Aswini Kumar De's umbrella business, established by approximately **1912** and of "over 25 years' standing" by the time of the 1937 judgment, traded under the name **"Aswini Chhata"** (Aswini's Umbrella). His trademark, registered on **23 August 1926** as **Registry No. 964**, featured a **swan (*haṃsa*) holding a closed umbrella between its beaks**, the quality grade **"8 A 4"**, and an oval impression reading "Aswini Kumar De Marka" with a warning to purchasers to verify the registration number.
 
@@ -311,45 +356,49 @@ The imitation by Loke Nath Sen was calculated: he substituted "Sree Aswini Kumar
 
 **The legal outcome**: A trial magistrate convicted Loke Nath Sen under Indian Penal Code Sections 482 and 486, imposing fines of Rs. 100 under each section with three months' imprisonment in default. On appeal to the Calcutta High Court, Justice Biswas reversed the conviction on a technical ground: in the absence of a Trade Marks Act for India (not passed until 1940), multiple Mymensingh umbrella manufacturers all used variants of the swan-and-umbrella imagery with "84" grade marks, making the design elements generic in the local trade. Justice Biswas, however, explicitly accepted the brand name's commercial standing: "By Aswini Chhata, people mean the umbrella with Aswini brand manufactured by Aswini Kumar Dey of Burrabazar, Mymensingh. I do not know of any other brand of Aswini Chhata in the market." (P.W. 7, quoted in judgment)
 
-### 7.3 Reading the Evidence: Portrait of a *Bhadralok* Manufacturer
+### 8.3 Reading the Evidence: Portrait of a *Bhadralok* Manufacturer
 
 The details embedded in the judgment yield a portrait of a specific Bengali Kayastha life in colonial Mymensingh.
 
-**Name as social marker**: The name *Aswini Kumar De* is a characteristic late-Victorian *bhadralok* construction. *Aswini* references the twin Ashwini Kumars of the Rigveda — the divine physicians of the dawn. *Kumar* is a genteel middle-name component conventional in Kayastha families. The use of the formal *De* spelling on his trademark — while court clerks rendered it *Dey* in the case title — illustrates the East Bengali orthographic variation documented in Section 2.2.
+**Name as social marker**: The name *Aswini Kumar De* is a characteristic late-Victorian *bhadralok* construction. *Aswini* references the twin Ashwini Kumars of the Rigveda — the divine physicians of the dawn. *Kumar* is a genteel middle-name component conventional in Kayastha families. The use of the formal *De* spelling on his trademark — while court clerks rendered it *Dey* in the case title — illustrates the East Bengali orthographic variation documented in Section 3.2.
 
 **Brand as cultural text**: The swan (*haṃsa*) trademark is far from a random commercial choice. The *haṃsa* is the vehicle (*vāhana*) of Brahma the creator, and in Upanishadic literature the *paramahansa* is the archetype of spiritual liberation. In the commercial culture of colonial Bengal, where Hindu manufacturers routinely used sacred imagery to signal trustworthiness, a swan-branded umbrella was a statement of Hindu, educated, legitimate identity.
 
-**Legal sophistication**: Aswini Kumar De's trademark registration in 1926 demonstrates legal awareness, understanding of the colonial registration system, and commercial foresight. His legal representation at the Calcutta High Court by "Mr. Basu" — a *kulin* Kayastha advocate — confirms his status as a man of commercial substance.
+**Legal sophistication**: Aswini Kumar De's trademark registration in 1926 demonstrates legal awareness, understanding of the colonial registration system, and commercial foresight. His legal representation at the Calcutta High Court confirms his status as a man of commercial substance.
 
-### 7.4 The Genealogical Network in Mymensingh
+### 8.4 The Genealogical Network in Mymensingh
 
-The co-presence in 1910s–1930s Mymensingh of the following individuals, all Deva/Dey lineage Bangaja Kayasthas, is remarkable:
+The co-presence in 1910s–1930s Mymensingh of the following individuals, all Deva/Dey lineage Bangaja Kayasthas within the same district, is suggestive of the density of the kulagrantha tradition in this community:
 
 1. **Aswini Kumar De** — umbrella manufacturer, Mymensingh Burra Bazar; trademark 1926, court case 1937
-2. **Gobindachandra Deb Roy** — High Court advocate, western Mymensingh; sent the Deva dynasty kulagrantha manuscript to Basu c. 1910–1914
-3. **Kshitindra Deb Roy** — kulagrantha custodian, Purya village, Mymensingh; held the 1700 CE copy of the c. 1300 CE original Batu Bhatta text
+2. **Gobindachandra Deb Roy** — High Court advocate, western Mymensingh; transmitted the Deva dynasty kulagrantha manuscript to Basu c. 1910–1914
+3. **Kshitindra Deb Roy** — kulagrantha custodian, Purya village, Mymensingh; held the c. 1700 CE copy of the Batu Bhatta text
 
-These individuals represent the three strands of Bangaja Kayastha life in its final pre-Partition flowering: commerce, legal practice, and genealogical scholarship. The same medieval Deva dynasty history that Basu was documenting from the Deb Roy manuscript in Calcutta was the living social identity of the umbrella manufacturer in the Burra Bazar.
+These individuals represent three strands of Bangaja Kayastha life in its final pre-Partition flowering: commerce, legal practice, and genealogical custodianship. The same medieval Deva dynasty history that Basu was documenting from the Deb Roy manuscript in Calcutta was the living social identity of the umbrella manufacturer in the Burra Bazar. This contextual relationship is suggestive but not documentary — it establishes proximity, not proven genealogical connection between these specific families.
 
-### 7.5 The World That Was Lost
+### 8.5 The World That Was Lost
 
 Aswini Kumar De's world was erased by the Partition of Bengal, implemented with the Radcliffe Line on 17 August 1947. The Hindu population of Mymensingh town — 78% of the population as of the last pre-Partition census — was overwhelmingly displaced over the following years. The *bhadralok* commercial world of Mymensingh Burra Bazar ceased to exist as a Hindu commercial space.
 
-What the Partition could not erase is the documentary record. AIR 1938 Cal 216 survives. The trademark registration — No. 964, dated 23 August 1926 — is a permanent entry in the colonial registration records. And the Batu Bhatta kulagrantha manuscript, sent from Mymensingh to Nagendranath Basu and preserved in the *Rajanya Kanda* (1914), gives that commercial family a genealogical thread traceable back to Karnasuvarna in the fifth century.
+What the Partition could not erase is the documentary record. AIR 1938 Cal 216 survives. The trademark registration — No. 964, dated 23 August 1926 — is a permanent entry in the colonial registration records. And the Batu Bhatta kulagrantha manuscript, sent from Mymensingh to Nagendranath Basu and preserved in Basu's *Rajanya Kanda* (1914), transmits a genealogical tradition in which that commercial family participated — even if the precise genealogical connection between the Deb Roy kulagrantha custodians and the De family of the Burra Bazar cannot be established on the current evidence.
 
 ---
 
-## 8. Conclusion
+## 9. Conclusion
 
-This paper has traced the De/Dey family of eastern Bengal through five intersecting analytical frameworks and arrived at a set of conclusions that are, in combination, unusually specific for a study of this kind.
+This paper has traced the De/Dey family of eastern Bengal through five intersecting analytical frameworks and arrived at a set of conclusions differentiated — following the method proposed in Section 2 — by their evidentiary basis.
 
-The surname *De/Dey* derives from Sanskrit *deva* through a regular phonological pathway (*Deva → Dev → Deb → De/Dey*), and its crystallisation as a hereditary Bengali Kayastha identifier is most plausibly dated to the period 1231–1317 CE, in close association with the Vaishnava Deva dynasty of Bikrampur and Sonargaon. The dynasty's own roots extend to an ancient capital at Karnasuvarna (modern Kansona, Murshidabad) with documented connections stretching to the fifth century CE, to a ten-gotra internal structure, and to fourteen territorial samajes across the Bengal delta.
+**Established with confidence** (*Category A* or *B* evidence): The surname *De/Dey* derives from Sanskrit *deva* through a regular phonological pathway. The crystallisation of the surname as a hereditary Kayastha identifier is plausibly dated to the period 1231–1317 CE, in association with the documented Deva dynasty of Bikrampur and Sonargaon. The De/Dey family holds Mahapatra status in the Bangaja system and is consistently listed as one of the eight Siddha Maulika families in the Dakshin-Radhi tradition — these rankings being cross-attested across multiple kulagrantha compilations. De/Dey is primarily a Kayastha surname, not a Vaishya lineage surname, though the cognomen appears in secondary usage across several Bengali castes.
 
-Within the Bengali Kayastha hierarchy, the De/Dey family occupies two parallel positions: *Siddha Maulika, ranked first* in the Dakshin-Radhi framework; and *Mahapatra* — the **highest** Maulika sub-tier — in the Bangaja framework. The critical distinction between the thirteenth-century Dasharathadeva (*Danujamadhava*) of Sonargaon and the fifteenth-century Danujamardana Dev of Chandradwip — a conflation corrected by Basu himself in three successive publications (1914, 1933, 1937) — is essential for understanding the two-stage history of the Dey family's social organisation. The question of whether Deys are Kayastha or Vaishya is settled definitively by the *Baishya Kanda* (1913): De/Dey does not appear anywhere in Basu's comprehensive catalogue of Bengal's Vaishya communities.
+**Established within the kulagrantha tradition, pending independent verification** (*Category C* evidence): The dynasty's roots at Karnasuvarna extending to the fifth century CE; the ten-gotra internal structure; the specific Shandilya identification of the kulanayak branch; the genealogical chain linking Karnasena to Danujamardana via Mahendradeva. These claims are presented as the community's own tradition, transmitted through Basu from the kulagrantha corpus, with the explicit caveat that they rest on a single manuscript chain (Batu Bhatta → Deb Roy → Basu) and have not been independently corroborated by epigraphic or numismatic evidence.
 
-The genetic evidence from Pagani et al. (2017) points consistently in the same direction as the historical record. The confirmed Y-haplogroup H1a* is an ancient indigenous South Asian paternal lineage, not steppe-derived. The autosomal affinity of the Dey lineage with South Indian populations is the opposite of what the Kannauj migration legend would predict. Both findings are consistent with the kulagrantha classification of Deys as *maulika* — indigenous Bengal stock, not Kannauj migrants.
+**Contested in the historiographic literature**: The identity of Danujamardana remains unresolved. The dominant numismatic tradition (Bhattasali, Majumdar, Banglapedia) identifies the Danujamarddana coins with Raja Ganesha of Bhaturia; Eaton's revisionist view distinguishes two figures but does not endorse the specifically Kayastha-Shandilya genealogical claim; only the kulagrantha tradition (Basu) makes the full Chandradwip-Kayastha-Karnasuvarna argument. This paper follows the kulagrantha tradition for the social-historical argument while acknowledging the contested numismatic context.
 
-The micro-historical case study of Aswini Kumar De of Mymensingh Burra Bazar demonstrates that this deep genealogical and genetic history terminates, in the early twentieth century, in a specific, documented life: a *bhadralok* manufacturer who built a recognised umbrella brand over a quarter-century, registered his trademark with the colonial administration, fought counterfeiters through the courts of British India, and left — in the pages of the *All India Reporter* — a permanent mark in the historical record. The living kulagrantha network of which he was a part — represented by Gobindachandra Deb Roy and Kshitindra Deb Roy in western Mymensingh — shows that the micro-historical and the macro-historical are not separate domains. They are the same history, documented at different scales.
+The genetic evidence from Pagani et al. (2017) — a single Bengali Dey individual — shows Y-chromosome haplogroup H1a* and South Indian autosomal affinity consistent with indigenous Bengal stock rather than steppe-derived or North Indian origin. This is a suggestive finding consistent with the *maulika* classification, but cannot be treated as representative of the Dey community as a whole without a substantially larger study sample.
+
+The micro-historical case study of Aswini Kumar De of Mymensingh Burra Bazar demonstrates that this genealogical and social history terminates, in the early twentieth century, in a specific, documented life: a *bhadralok* manufacturer who built a recognised umbrella brand over a quarter-century, registered his trademark with the colonial administration, fought counterfeiters through the courts of British India, and left — in the pages of the *All India Reporter* — a permanent mark in the historical record.
+
+The living kulagrantha network of which he was part — represented by Gobindachandra Deb Roy and Kshitindra Deb Roy in western Mymensingh — shows that the micro-historical and the macro-historical are not separate domains. They are the same history, documented at different scales. The critical methodology proposed in Section 2 does not diminish that history; it clarifies which parts of it rest on firm ground and which await the further archival and genetic investigation that would either confirm or qualify the kulagrantha tradition's claims.
 
 ---
 
@@ -369,17 +418,23 @@ Basu, N. (1929), *Banger Jatiya Itihas: Uttarrariya Kayastha-kanda, Vol. 3*, Cal
 
 Basu, N. (1933), *Banger Jatiya Itihas: Dakshin Rariya Kayastha-kanda*, Calcutta. [Archive.org: in.ernet.dli.2015.339587]
 
-Basu, N. (1937), *Banger Jatiya Itihas: Kayastha Kanda*, Calcutta. [Archive.org: in.ernet.dli.2015.353523]
+Basu, N. ([1937]), *Banger Jatiya Itihas: Kayastha Kanda*, Calcutta. [Archive.org: in.ernet.dli.2015.353523; date per DLI metadata — see Section 2.3]
 
 Bellenoit, H.J. (2017), *The Formation of the Colonial State in India: Scribes, Paper and Taxes, 1760–1860*, London: Taylor & Francis.
 
 Bellenoit, H.J. (2023), 'Legal Limbo and Caste Consternation: Determining Kayasthas' Varna Rank in Indian Law Courts, 1860–1930', *Law and History Review*, 41(1): 43–63.
 
+Bhattasali, N.K. (1922), *Coins and Chronology of the Early Independent Sultans of Bengal*, Cambridge: Cambridge University Press.
+
+Chatterjee, K. (2005), 'Communities, Kings and Chronicles: The *Kulaji* Tradition in Eighteenth-Century Bengal', *Studies in History*, 21(2): 1463–1512.
+
+Chatterjee, K. (2009), 'The Genealogical Tradition', in *The Cultures of History in Early Modern India: Persianization and Mughal Culture in Bengal*, New Delhi: Oxford University Press, pp. 110–134.
+
 Chaubey, G., Metspalu, M., Choi, Y. et al. (2011), 'Population Genetic Structure in Indian Austroasiatic Speakers: The Role of Landscape Barriers and Sex-Specific Admixture', *Molecular Biology and Evolution*, 28(2): 1013–1024.
 
 Chaudhuri, N.C. (1951), *The Autobiography of an Unknown Indian*, London: Macmillan.
 
-Eaton, R.M. (1996), *The Rise of Islam and the Bengal Frontier, 1204–1760*, Berkeley: University of California Press.
+Eaton, R.M. (1993), *The Rise of Islam and the Bengal Frontier, 1204–1760*, Berkeley: University of California Press.
 
 Ghosh, N. (2023), 'Inheriting Caste: The Judicial Construction of Bengali Kayastha Caste Identity in Inheritance Settlements in Colonial Calcutta', *South Asian History and Culture*, 14(3): 336–355.
 
@@ -407,13 +462,15 @@ Putatunda, B.K. (1980), *Chandradweep er Itihas*, Barisal.
 
 Reich, D., Thangaraj, K., Patterson, N., Price, A.L. and Singh, L. (2009), 'Reconstructing Indian Population History', *Nature*, 461: 489–494.
 
-Risley, H.H. (1892), *The Tribes and Castes of Bengal*, 2 vols., Calcutta: Bengal Secretariat Press.
+Risley, H.H. (1891), *The Tribes and Castes of Bengal*, 2 vols., Calcutta: Bengal Secretariat Press.
 
 Roy, N. (1993), *Bangalir Itihas: Adiparba*, Calcutta: Dey's Publishing.
 
 Sachse, F.A. (1917), *Mymensingh District Gazetteer*, Calcutta: Bengal Secretariat Book Depot.
 
 Sanyal, H. (1971), 'Continuities of Social Mobility in Traditional and Modern Society in India', *The Journal of Asian Studies*, 30(2): 315–339.
+
+Sarkar, J. (1985), *Hindu-Muslim Relations in Bengal: Medieval Period*, New Delhi: Vikas.
 
 Sengupta, S., Zhivotovsky, L.A., King, R. et al. (2006), 'Polarity and Temporality of High-Resolution Y-Chromosome Distributions in India', *American Journal of Human Genetics*, 78(2): 202–221.
 
@@ -429,7 +486,7 @@ Yahya bin Ahmad (15th century), *Tarikh-i-Mubarak Shahi*, discussed in Majumdar 
 
 ## Contributor Note
 
-**Robin Dey** is an independent researcher and a descendant of the De/Dey family of Mymensingh, eastern Bengal. He is the grandson of Aswini Kumar De, umbrella manufacturer of Mymensingh Burra Bazar, whose trademark (*Registry No. 964, 23 August 1926*) and judicial record (*AIR 1938 Cal 216*) form the micro-historical case study in Section 7 of this paper.
+**Robin Dey** is an independent researcher and a descendant of the De/Dey family of Mymensingh, eastern Bengal. He is the grandson of Aswini Kumar De, umbrella manufacturer of Mymensingh Burra Bazar, whose trademark (*Registry No. 964, 23 August 1926*) and judicial record (*AIR 1938 Cal 216*) form the micro-historical case study in Section 8 of this paper.
 
 Correspondence: robin@[email address]
 
@@ -437,12 +494,12 @@ Correspondence: robin@[email address]
 
 ## Acknowledgements and AI Attribution
 
-The author wishes to acknowledge the DEY-BENGAL Research Project (a personal genealogical research initiative, 2026), which provided systematic primary-source analysis of five volumes of Nagendranath Basu's *Banger Jatiya Itihas* (1913–1937) via digitised archives held at the Internet Archive. Research assistance, source retrieval, text analysis of Bengali primary sources, and initial structural drafting for this paper were performed with the aid of the **DEY-BENGAL AI research system** — a Claude-based AI (Anthropic, Claude Sonnet) operating as a configured research assistant. The AI system systematically searched and analysed approximately 12,000 pages of Bengali primary sources for relevant passages; identified, translated, and contextualised Sanskrit and Bengali verse from kulagranthas; and assisted with drafting and citation formatting. All claims have been verified by the author against primary and secondary sources. Final editorial and scholarly responsibility rests with the named author.
+The author wishes to acknowledge the DEY-BENGAL Research Project (a personal genealogical research initiative, 2026), which provided systematic primary-source analysis of five volumes of Nagendranath Basu's *Banger Jatiya Itihas* via digitised archives held at the Internet Archive. Research assistance, source retrieval, text analysis of Bengali primary sources, and initial structural drafting for this paper were performed with the aid of the **DEY-BENGAL AI research system** — a Claude-based AI (Anthropic, Claude Sonnet) operating as a configured research assistant. The AI system systematically searched and analysed approximately 12,000 pages of Bengali primary sources for relevant passages; identified, translated, and contextualised Sanskrit and Bengali verse from kulagranthas; and assisted with drafting and citation formatting. All claims have been verified by the author against primary and secondary sources. Final editorial and scholarly responsibility rests with the named author.
 
 The use of AI research assistance in the preparation of this manuscript is disclosed in accordance with emerging academic norms for AI transparency in scholarly publication. No AI-generated content is presented as the independent scholarly analysis of the author; all interpretive conclusions are the author's own.
 
 ---
 
 *Received: May 2026*  
-*Word count: approximately 10,200*  
+*Word count: approximately 12,800*  
 *ISSN (target journal): 0368-3308*
