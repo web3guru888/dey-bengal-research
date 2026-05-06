@@ -37,7 +37,7 @@ The paper proceeds as follows. Section 2 addresses the kulagrantha genre as a cr
 
 ### 2.1 The Kulagrantha Genre
 
-The *kulagrantha* — literally "family text" — is a Bengali genre of genealogical literature produced primarily between the fourteenth and early nineteenth centuries by professional genealogists (*ghatakas*) who maintained descent records for high-caste Kayastha, Brahmin, and Baidya families. Kulagranthas served not merely as historical chronicles but as social charters: they were recited at weddings, *shraddha* ceremonies, and rites of passage, and they functioned to validate or contest the rank of prospective marriage partners. As Kumkum Chatterjee observes, kulagranthas "validate relationships between groups" and should be read as "ideologically purposive social documents" rather than as historical chronicles in the modern sense (Chatterjee, 2005: 1463–1465; 2009: 110–134).
+The *kulagrantha* — literally "family text" — is a Bengali genre of genealogical literature produced primarily between the fourteenth and early nineteenth centuries by professional genealogists (*ghatakas*) who maintained descent records for high-caste Kayastha, Brahmin, and Baidya families. Kulagranthas served not merely as historical chronicles but as social charters: they were recited at weddings, *shraddha* ceremonies, and rites of passage, and they functioned to validate or contest the rank of prospective marriage partners. As Kumkum Chatterjee observes, kulagranthas "validate relationships between groups" and should be read as "ideologically purposive social documents" rather than as historical chronicles in the modern sense (Chatterjee, 2005: 173; 2009: 110–134).
 
 Ronald Inden's structural analysis of the genre in *Marriage and Rank in Bengali Culture* (1976) identified three textual layers within any kulagrantha: (i) the *kula-srsti* or "creation of the system," which narrates the founding genealogical myth; (ii) the *vidhi-prakarana* or "rule-chapter," which gives the governing rules of caste rank; and (iii) the *vamsa-amsa* or "lineage section," which records the current genealogical positions of specific families. Inden's palaeographic finding is critical for assessing the kulagrantha tradition's historical claims: "all [kulagrantha manuscripts are], on palaeographic grounds, assigned to the late eighteenth or early nineteenth centuries" (Inden, 1976: 27–28), which means internal dating claims — such as "composed in the court of Dasharathadeva in the 13th century" — cannot be accepted at face value without independent corroboration.
 
@@ -475,8 +475,6 @@ The living kulagrantha network of the same district — represented by Gobindach
 
 ## References
 
-Arnold, D. (1994), 'The Colonial Prison: Power, Knowledge and Penology in Nineteenth-Century India', in D. Arnold and D. Hardiman (eds.), *Subaltern Studies VIII: Essays in Honour of Ranajit Guha*, Delhi: Oxford University Press, pp. 149–187.
-
 Bandyopadhyay, S. (2004), *Caste, Culture, and Hegemony: Social Dominance in Colonial Bengal*, New Delhi: Sage Publications.
 
 Basu, A., Mukherjee, N., Roy, S. et al. (2003), 'Ethnic India: A Genomic View, with Special Reference to Peopling and Structure', *Genome Research*, 13(10): 2277–2290.
@@ -503,7 +501,7 @@ Bellenoit, H.J. (2023), 'Legal Limbo and Caste Consternation: Determining Kayast
 
 Bhattasali, N.K. (1922), *Coins and Chronology of the Early Independent Sultans of Bengal*, Cambridge: Cambridge University Press.
 
-Chatterjee, K. (2005), 'Communities, Kings and Chronicles: The *Kulaji* Tradition in Eighteenth-Century Bengal', *Studies in History*, 21(2): 1463–1512.
+Chatterjee, K. (2005), 'Communities, Kings and Chronicles: The Kulagranthas of Bengal', *Studies in History*, 21(2): 173–213.
 
 Chatterjee, K. (2009), 'The Genealogical Tradition', in *The Cultures of History in Early Modern India: Persianization and Mughal Culture in Bengal*, New Delhi: Oxford University Press, pp. 110–134.
 
@@ -530,8 +528,6 @@ Majumdar, R.C. (1960), *The Delhi Sultanate*, Vol. 6 of *The History and Culture
 Majumdar, R.C. (1971), *History of Ancient Bengal*, Calcutta: G. Bharadwaj.
 
 Minhaj-i-Siraj Juzjani (1881), *Tabaqat-i-Nasiri*, trans. H.G. Raverty, London: Gilbert and Rivington.
-
-Mitra, S.C. (1914), *Jessore Khulnar Itihas*, Calcutta.
 
 Narasimhan, V.M., Patterson, N., Moorjani, P. et al. (2019), 'The Formation of Human Populations in South and Central Asia', *Science*, 366(6461): eaat7487.
 
