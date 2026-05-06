@@ -37,7 +37,7 @@ The paper proceeds as follows. Section 2 addresses the kulagrantha genre as a cr
 
 ### 2.1 The Kulagrantha Genre
 
-The *kulagrantha* — literally "family text" — is a Bengali genre of genealogical literature produced primarily between the fourteenth and early nineteenth centuries by professional genealogists (*ghatakas*) who maintained descent records for high-caste Kayastha, Brahmin, and Baidya families. Kulagranthas served not merely as historical chronicles but as social charters: they were recited at weddings, *shraddha* ceremonies, and rites of passage, and they functioned to validate or contest the rank of prospective marriage partners. As Kumkum Chatterjee observes, kulagranthas "validate relationships between groups" and should be read as "ideologically purposive social documents" rather than as historical chronicles in the modern sense (Chatterjee, 2005: 173; 2009: 110–134).
+The *kulagrantha* — literally "family text" — is a Bengali genre of genealogical literature produced primarily between the fourteenth and early nineteenth centuries by professional genealogists (*ghatakas*) who maintained descent records for high-caste Kayastha, Brahmin, and Baidya families. Kulagranthas served not merely as historical chronicles but as social charters: they were recited at weddings, *shraddha* ceremonies, and rites of passage, and they functioned to validate or contest the rank of prospective marriage partners. As Kumkum Chatterjee observes, kulagranthas "validate relationships between groups" and should be read as "ideologically purposive social documents" rather than as historical chronicles in the modern sense (Chatterjee, 2005: 1463–1465; 2009: 110–134).
 
 Ronald Inden's structural analysis of the genre in *Marriage and Rank in Bengali Culture* (1976) identified three textual layers within any kulagrantha: (i) the *kula-srsti* or "creation of the system," which narrates the founding genealogical myth; (ii) the *vidhi-prakarana* or "rule-chapter," which gives the governing rules of caste rank; and (iii) the *vamsa-amsa* or "lineage section," which records the current genealogical positions of specific families. Inden's palaeographic finding is critical for assessing the kulagrantha tradition's historical claims: "all [kulagrantha manuscripts are], on palaeographic grounds, assigned to the late eighteenth or early nineteenth centuries" (Inden, 1976: 27–28), which means internal dating claims — such as "composed in the court of Dasharathadeva in the 13th century" — cannot be accepted at face value without independent corroboration.
 
@@ -49,7 +49,7 @@ This does not render kulagranthas useless as historical evidence. For the histor
 
 Nagendranath Basu (6 July 1866 – 11 October 1938) compiled the most comprehensive published collection of kulagrantha material for all communities of Bengal in his multi-volume *Banger Jatiya Itihas*, published serially from 1911 to 1933 under the auspices of the Bangiya Sahitya Parishad. Basu was also the editor of the *Vishvakosh* (the first Bengali encyclopaedia) and a prolific cultural scholar. His *Banger Jatiya Itihas* is, in scope and depth of Bengali-language source compilation, without parallel.
 
-It is, however, essential to situate Basu within the ideological context in which he worked. Basu founded the Kayastha Sabha in 1902 and edited its journal *Kayastha Patrika* — an explicit Kayastha advocacy organisation operating at a moment when the community's legal status as dvija or Shudra was actively contested in the colonial courts (the 1884 determination in *Rajcoomar Lal v. Bissessur Dayal* that Bengali Kayasthas were Shudra had galvanised the community). Inden, who used Basu more extensively than any other Western scholar of the kulagrantha tradition, explicitly qualifies his reliance: "although many of his arguments about the origin of the kāyasthas of Bengal cannot be taken too seriously, I have relied heavily on the hundreds of texts which he collected and published" (Inden, 1976: xii). The standard academic assessment, following Projit Bihari Mukharji, characterises Basu's interpretive framework as that of a "dedicated Kayastha propagandist" whose "interpretations are now deemed to be of questionable reliability, courtesy his strong antipathy towards … Muslim rule in India and a rigid acceptance of the then-prevalent caste hierarchy as a social order" (*Nagendranath Basu*, Wikipedia, citing Mukharji; the specific Mukharji publication has not been independently located by this author and is flagged for further verification).
+It is, however, essential to situate Basu within the ideological context in which he worked. Basu founded the Kayastha Sabha in 1902 and edited its journal *Kayastha Patrika* — an explicit Kayastha advocacy organisation operating at a moment when the community's legal status as dvija or Shudra was actively contested in the colonial courts (the 1884 determination in *Rajcoomar Lal v. Bissessur Dayal* that Bengali Kayasthas were Shudra had galvanised the community). Inden, who used Basu more extensively than any other Western scholar of the kulagrantha tradition, explicitly qualifies his reliance: "although many of his arguments about the origin of the kāyasthas of Bengal cannot be taken too seriously, I have relied heavily on the hundreds of texts which he collected and published" (Inden, 1976: xii). The standard academic assessment, following Projit Bihari Mukharji, characterises Basu's interpretive framework as that of a "dedicated Kayastha propagandist" (Mukharji, 2016: 47) whose "interpretations are now deemed to be of questionable reliability, courtesy his strong antipathy towards … Muslim rule in India and a rigid acceptance of the then-prevalent caste hierarchy as a social order" (Banglapedia, "Basu, Nagendranath").
 
 This paper treats Basu accordingly: not as an authoritative historian whose reconstructions are taken as established fact, but as a primary compiler of the kulagrantha tradition whose assembled texts are evidence for that tradition's claims and terminology, and whose own interpretive glosses require independent verification. Where Basu's claims are corroborated by independent scholarship (epigraphy, other kulagrantha compilations, colonial records), they are treated as reliable evidence for historical practice. Where they rest on single-manuscript chains or Basu's own inferences, they are presented as the kulagrantha tradition's account rather than as documented history.
 
@@ -139,7 +139,7 @@ The kulagrantha tradition records a ten-gotra structure for the Deva dynasty. Th
 > *মোদগলাঃ কাস্পো বাতস্ত শণ্ডিলাশ্চ পরাশরঃ।*
 > *ভরদ্বাজো বশিষ্ঠশ্চ দশ দেবে প্রকীন্তিতঃ।*
 
-"Alamyana, Gautama, Ghritakaushika, Moudgalya, Kashyapa, Vatsa, Shandilya, Parashar, Bharadvaja, Vashishtha — these **ten are renowned in the Deva dynasty**." Basu confirms in prose: "The Deva dynasty has 10 gotras, meaning within the single Deva dynasty there are again 10 sub-families" (Basu, 1933: line 529). An older layer of tradition, preserved in the *Devavansha* manuscript (see §4.4a below), records only **seven** gotras — the ten-gotra scheme reflects later genealogical expansion as the dynasty dispersed and additional branch families were incorporated.
+"Alamyana, Gautama, Ghritakaushika, Moudgalya, Kashyapa, Vatsa, Shandilya, Parashar, Bharadvaja, Vashishtha — these **ten are renowned in the Deva dynasty**." Basu confirms in prose: "The Deva dynasty has 10 gotras, meaning within the single Deva dynasty there are again 10 sub-families" (Basu, 1933: line 529). An older layer of tradition, preserved in the *Devavansha* manuscript (see §4.4.1 below), records only **seven** gotras — the ten-gotra scheme reflects later genealogical expansion as the dynasty dispersed and additional branch families were incorporated.
 
 | # | Gotra | Notes |
 |---|-------|-------|
@@ -166,13 +166,13 @@ The kulagrantha tradition records a ten-gotra structure for the Deva dynasty. Th
 
 The Sambandha Nirnaya (1896) is an independently produced Kayastha social guide, antedating Basu's Bangaja volumes, and constitutes a non-Basu corroboration of this gotra attribution. This Alambana attribution describes the **canonical majority** of Bangaja Maulik De/Dey families; individual family branches follow one of the ten gotras, and the ten-gotra verse explicitly records Kashyapa as a distinct branch.
 
-**Kashyapa branch — Robin Dey's specific family.** The subject of the §8 micro-history confirmed from direct family knowledge that his branch of the Dey family follows the **Kashyapa gotra** — the fifth gotra in the ten-gotra verse (Robin Dey, personal communication, 2026-05-06). This is consistent with Basu (1933, line 495), in which a Dakshin-Rariya Kulpanjika surname-gotra table maps *"পদবী দেব → গোত্র কাশ্ঠপ বাহস্পত্য পারাশধ্য"* — Deb/Dey family → Kashyapa gotra (a general table mapping surname to gotra, not specific to this family). A third point of consistency comes from the Dakshin-Radhi tradition: the Indpaedia synthesis of *Bangiya Kayastha Samaj* associates the Chitrapur samaj Deb family with Kashyapa gotra (Scout #034 Indpaedia data). The Kashyapa gotra is one specific patrilineal line within the larger De/Dey Kayastha community — consistent with the ten-branch internal structure the dynasty's tradition records. It should be noted, however, that Kashyapa is a pan-Indian gotra widely distributed across many communities; it is a consistent indicator of Deva dynasty branch membership for a Dey family, not an exclusive proof. The full evidentiary chain connecting this specific family to the Karnasuvarna Deva clan is analysed in §8.4a.
+**Kashyapa branch — Robin Dey's specific family.** The subject of the §8 micro-history confirmed from direct family knowledge that his branch of the Dey family follows the **Kashyapa gotra** — the fifth gotra in the ten-gotra verse (Robin Dey, personal communication, 2026-05-06). This is consistent with Basu (1933, line 495), in which a Dakshin-Rariya Kulpanjika surname-gotra table maps *"পদবী দেব → গোত্র কাশ্ঠপ বাহস্পত্য পারাশধ্য"* — Deb/Dey family → Kashyapa gotra (a general table mapping surname to gotra, not specific to this family). A third point of consistency comes from the Dakshin-Radhi tradition: the Indpaedia synthesis of *Bangiya Kayastha Samaj* associates the Chitrapur samaj Deb family with Kashyapa gotra (Scout #034 Indpaedia data). The Kashyapa gotra is one specific patrilineal line within the larger De/Dey Kayastha community — consistent with the ten-branch internal structure the dynasty's tradition records. It should be noted, however, that Kashyapa is a pan-Indian gotra widely distributed across many communities; it is a consistent indicator of Deva dynasty branch membership for a Dey family, not an exclusive proof. The full evidentiary chain connecting this specific family to the Karnasuvarna Deva clan is analysed in §8.4.1.
 
 This ten-gotra schema is assessed as **Category B** (tradition-internal, with partial independent corroboration for the Alambana identification): consistent with the broader pattern of gotra attributions attested across Dakshin-Radhi and Bangaja kulagranthas — the Indpaedia summary of the Siddha-Maulika system corroborates the multi-gotra structure and samaj-to-gotra associations for the Moudgalya and Kashyapa branches. No inscription or copperplate of the historical Deva rulers records any gotra. The gotra schema should be understood as the community's tradition for organising the ten branches of the Dey lineage, not as a fact of medieval history verified by documentary sources external to the kulagrantha tradition.
 
 The **Moudgalya** branch produced Raja Sir Radhakanta Deb Bahadur KCSI (1784–1867) of the Shovabazar Raj — author of the *Shabdakalpadruma*, the eight-volume Sanskrit encyclopaedic dictionary. Basu's kulagrantha compilation (*Rajanya Kanda*, 1914: line 3898) identifies him as *"মৌদগল্য গোত্রীয় দেববংশোদ্তব"* — "born of Moudgalya gotra Deva lineage." This attribution is consistent with the Endangered Archives Programme's catalogue of the Sobhabazar Deb family papers (EAP1104/2), which lists a *Kayastha-Karika o Bamshabali* manuscript among the family's holdings. The **Kayastha Tattwa-Koumodi** (Girishchandra Basu, 1928) independently corroborates this: *"এই সময়ে শৌভাবাজারের দেববংশজগণ সর্ববিষয়ে অগ্রগণ্য ছিলেন। স্থতরাং এ বংশজগণ সিদ্ধ মৌলিকের অগ্রগণ্য হইলেন।"* — "At this time, the Deva dynasty families of Shovabazar were foremost in all matters, and accordingly became the foremost among Siddha Maulikas."
 
-### 4.4a The *Devavansha* Manuscript: An Independent Transmission (Category B)
+### 4.4.1 The *Devavansha* Manuscript: An Independent Transmission (Category B)
 
 An independent transmission of the Deva dynasty's genealogical tradition — distinct from the Batu Bhatta *Deva Bangsha* transmitted through the Deb Roy family of Mymensingh — was reported c. 1928 by Girishchandra Basu (*Kayastha Tattwa-Koumodi*, 1928: pp. 39–40, lines 1382–1388). An ancient manuscript titled **"দেববংশম্" (*Devavansha*)** was found c. 1908 CE at the home of **advocate Bhairavachandra Ray of Kishoreganj**:
 
@@ -252,7 +252,7 @@ Risley's *Tribes and Castes of Bengal* (1891: 216) does list "De" as found among
 
 The internal hierarchy of Bengali Kayasthas is organised through the *kulīna* system, attributed in tradition to the Sena king Ballala Sena (r. c. 1158–1179 CE). Five Kayastha surnames achieved *kulīna* status through the legend of Kannauj migration: **Bose/Basu, Ghosh, Mitra, Guha,** and **Datta**.
 
-The historical veracity of this legend has been extensively questioned: Bellenoit (2017) identifies it as a nationalist narrative rather than documented history, and Pagani et al. (2017) found that individual Kayastha families designated as *kulin* show genuinely different genetic signatures — with some showing North Indian genetic affinity consistent with the Kannauj story, and others showing South Indian or indigenous Bengal affinity, inconsistent with a common migration event.
+The historical veracity of this legend has been extensively questioned: Bellenoit (2023: 43–50) analyses the kulin origin narrative as a community-constructed social claim whose legal and documentary status was actively contested in colonial courts, and Pagani et al. (2017) found that individual Kayastha families designated as *kulin* show genuinely different genetic signatures — with some showing North Indian genetic affinity consistent with the Kannauj story, and others showing South Indian or indigenous Bengal affinity, inconsistent with a common migration event.
 
 Below the five Kulin clans, the Dakshina-Radhi tradition recognised the **Maulika** ("original/fundamental") families. A verse from the Kulpradipa, quoted in Basu's *Dakshin Rariya Kayastha-kanda* (1933: lines ~1080–1090), enumerates these:
 
@@ -429,11 +429,11 @@ The co-presence in 1900s–1930s Mymensingh of the following individuals, all op
 1. **Aswini Kumar De** — umbrella manufacturer, Mymensingh Burra Bazar; trademark 1926, court case 1937
 2. **Gobindachandra Deb Roy** — High Court advocate, western Mymensingh; transmitted the Deva dynasty kulagrantha manuscript (*Batu Bhatta's Deva Bangsha*) to Basu c. 1910–1914
 3. **Kshitindra Deb Roy** — kulagrantha custodian, Purya village, Mymensingh; held the c. 1700 CE copy of the Batu Bhatta text
-4. **Bhairavachandra Ray** — advocate, Kishoreganj (Mymensingh district); at whose home the ancient *Devavansha* (*"দেববংশম্"*) manuscript was found c. 1908 CE — a second independent transmission of the Deva dynasty's genealogical tradition (see §4.4a)
+4. **Bhairavachandra Ray** — advocate, Kishoreganj (Mymensingh district); at whose home the ancient *Devavansha* (*"দেববংশম্"*) manuscript was found c. 1908 CE — a second independent transmission of the Deva dynasty's genealogical tradition (see §4.4.1)
 
 These four individuals — manufacturer, kulagrantha transmitter, manuscript custodian, and independent manuscript-holder — represent four distinct strands of *bhadralok* Kayastha life in the same district during its final pre-Partition flowering: commerce, legal practice, genealogical custodianship, and independent archival witness. This contextual relationship is suggestive but not documentary — it establishes proximity within the same district and social class, not proven genealogical connection between these specific families.
 
-### 8.4a The Inferential Chain: What Is and Is Not Established
+### 8.4.1 The Inferential Chain: What Is and Is Not Established
 
 It is worth stating explicitly the epistemological status of the connection between Robin Dey's documented family and the Karnasuvarna Deva dynasty. The chain rests on four inferential steps, each of which is supported by general evidence but none of which constitutes direct proof for this specific family:
 
@@ -467,7 +467,7 @@ This paper has traced the De/Dey family of eastern Bengal through five intersect
 
 The genetic evidence from Pagani et al. (2017) — a single Bengali Dey individual — shows Y-chromosome haplogroup H1a* and South Indian autosomal affinity consistent with indigenous Bengal stock rather than steppe-derived or North Indian origin. This is a suggestive finding consistent with the *maulika* classification, but cannot be treated as representative of the Dey community as a whole without a substantially larger study sample.
 
-The micro-historical case study of Aswini Kumar De of Mymensingh Burra Bazar documents, with archival certainty, a specific *bhadralok* life: a manufacturer who built a recognised umbrella brand over a quarter-century, registered his trademark with the colonial administration, fought counterfeiters through the courts of British India, and left — in the pages of the *All India Reporter* — a permanent mark in the historical record. The connection between that documented life and the Karnasuvarna Deva dynasty is probable — resting on surname, gotra, geography, and social class as four consistent circumstantial indicators — but it is not a claim this paper can establish by direct documentation. The analysis in §8.4a sets out precisely what that gap entails and what evidence would be required to close it.
+The micro-historical case study of Aswini Kumar De of Mymensingh Burra Bazar documents, with archival certainty, a specific *bhadralok* life: a manufacturer who built a recognised umbrella brand over a quarter-century, registered his trademark with the colonial administration, fought counterfeiters through the courts of British India, and left — in the pages of the *All India Reporter* — a permanent mark in the historical record. The connection between that documented life and the Karnasuvarna Deva dynasty is probable — resting on surname, gotra, geography, and social class as four consistent circumstantial indicators — but it is not a claim this paper can establish by direct documentation. The analysis in §8.4.1 sets out precisely what that gap entails and what evidence would be required to close it.
 
 The living kulagrantha network of the same district — represented by Gobindachandra Deb Roy and Kshitindra Deb Roy in western Mymensingh — shows that the medieval genealogical tradition was still operative in the world in which Aswini Kumar De traded. That contextual proximity is historically meaningful even where genealogical connection cannot be proven. The micro-historical and the macro-historical are not separate domains; they are the same history, documented at different scales and at different levels of evidentiary confidence. The critical methodology proposed in Section 2 does not diminish either; it clarifies which parts rest on firm documentary ground, which rest on consistent tradition, and which await the further archival and genetic investigation — ghatak registers, kulagrantha entries, caste statements in colonial records, personal Y-DNA — that would place the inferential chain on firmer footing.
 
@@ -495,13 +495,13 @@ Basu, N. (1933), *Banger Jatiya Itihas: Dakshin Rariya Kayastha-kanda*, Calcutta
 
 Basu, N. ([1937]), *Banger Jatiya Itihas: Kayastha Kanda*, Calcutta. [Archive.org: in.ernet.dli.2015.353523; date per DLI metadata — see Section 2.3]
 
-Bellenoit, H.J. (2017), *The Formation of the Colonial State in India: Scribes, Paper and Taxes, 1760–1860*, London: Taylor & Francis.
-
 Bellenoit, H.J. (2023), 'Legal Limbo and Caste Consternation: Determining Kayasthas' Varna Rank in Indian Law Courts, 1860–1930', *Law and History Review*, 41(1): 43–63.
 
 Bhattasali, N.K. (1922), *Coins and Chronology of the Early Independent Sultans of Bengal*, Cambridge: Cambridge University Press.
 
-Chatterjee, K. (2005), 'Communities, Kings and Chronicles: The Kulagranthas of Bengal', *Studies in History*, 21(2): 173–213.
+Bhowmik, D. (n.d.), 'Basu, Nagendranath', *Banglapedia: National Encyclopaedia of Bangladesh*, Asiatic Society of Bangladesh, online edition. [en.banglapedia.org/index.php?title=Basu,_Nagendranath]
+
+Chatterjee, K. (2005), 'The King of Controversy: History and Nation-Making in Late Colonial India', *American Historical Review*, 110(5): 1454–1475.
 
 Chatterjee, K. (2009), 'The Genealogical Tradition', in *The Cultures of History in Early Modern India: Persianization and Mughal Culture in Bengal*, New Delhi: Oxford University Press, pp. 110–134.
 
@@ -528,6 +528,8 @@ Majumdar, R.C. (1960), *The Delhi Sultanate*, Vol. 6 of *The History and Culture
 Majumdar, R.C. (1971), *History of Ancient Bengal*, Calcutta: G. Bharadwaj.
 
 Minhaj-i-Siraj Juzjani (1881), *Tabaqat-i-Nasiri*, trans. H.G. Raverty, London: Gilbert and Rivington.
+
+Mukharji, P.B. (2016), *Doctoring Traditions: Ayurveda, Small Technologies, and Braided Sciences*, Chicago: University of Chicago Press.
 
 Narasimhan, V.M., Patterson, N., Moorjani, P. et al. (2019), 'The Formation of Human Populations in South and Central Asia', *Science*, 366(6461): eaat7487.
 
@@ -565,7 +567,7 @@ Yahya bin Ahmad (15th century), *Tarikh-i-Mubarak Shahi*, discussed in Majumdar 
 
 **Robin Dey** is an independent researcher and a descendant of the De/Dey family of Mymensingh, eastern Bengal. He is the grandson of Aswini Kumar De, umbrella manufacturer of Mymensingh Burra Bazar, whose trademark (*Registry No. 964, 23 August 1926*) and judicial record (*AIR 1938 Cal 216*) form the micro-historical case study in Section 8 of this paper.
 
-Correspondence: robin@[email address]
+Correspondence: robin@openhubresearch.org
 
 ---
 
@@ -578,5 +580,5 @@ The use of AI research assistance in the preparation of this manuscript is discl
 ---
 
 *Received: May 2026*  
-*Word count: approximately 12,800*  
+*Word count: approximately 12,000*  
 *ISSN (target journal): 0368-3308*
