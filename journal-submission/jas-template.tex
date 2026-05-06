@@ -1,7 +1,9 @@
-% JAS submission template — XeLaTeX (simple, robust)
+% JAS submission template — XeLaTeX
+% Automatic Unicode-block font switching for Bengali, Devanagari, and Arrows
 \documentclass[11pt,a4paper]{article}
 
 \usepackage{fontspec}
+\usepackage{ucharclasses}          % automatic Unicode-block font switching
 \usepackage{polyglossia}
 \usepackage{microtype}
 \usepackage[colorlinks=true,linkcolor=black,urlcolor=black,citecolor=black]{hyperref}
@@ -14,21 +16,48 @@
 \usepackage{titlesec}
 \usepackage{xcolor}
 
-%% Fonts — Noto Serif for Latin; Bengali chars fall back to system
+%% ── Fonts ────────────────────────────────────────────────────────────────────
+
+%% Main font (Latin + extended Latin for transliteration diacritics)
 \setmainfont{Noto Serif}[
   BoldFont       = Noto Serif Bold,
   ItalicFont     = Noto Serif Italic,
   BoldItalicFont = Noto Serif Bold Italic
 ]
-\newfontfamily\bengalifont{Noto Serif Bengali}[Script=Bengali]
 
-%% Language
+%% Bengali (U+0980–U+09FF)
+\newfontfamily\bengalifont{Noto Serif Bengali}[
+  Script   = Bengali,
+  BoldFont = Noto Serif Bengali Bold
+]
+
+%% Devanagari (U+0900–U+097F incl. danda U+0964)
+%% Only appears in paper as देव — using Noto Sans Devanagari UI (no serif available)
+\newfontfamily\devanagarifont{Noto Sans Devanagari UI}[Script=Devanagari]
+
+%% Arrows & symbols (→ U+2192 etc.) — DejaVu Serif has full arrows coverage
+\newfontfamily\arrowfont{DejaVu Serif}
+
+%% ── ucharclasses transitions ─────────────────────────────────────────────────
+
+%% Bengali block → Noto Serif Bengali
+\setTransitionsFor{Bengali}{\bengalifont}{\normalfont}
+
+%% Devanagari sub-blocks (ucharclasses splits it; cover all five)
+\setTransitionsFor{DevanagariPreMarks}{\devanagarifont}{\normalfont}
+\setTransitionsFor{DevanagariMarks}{\devanagarifont}{\normalfont}
+\setTransitionsFor{DevanagariPostMarks}{\devanagarifont}{\normalfont}
+\setTransitionsFor{DevanagariDanDa}{\devanagarifont}{\normalfont}
+\setTransitionsFor{DevanagariPostDanDa}{\devanagarifont}{\normalfont}
+
+%% Arrows block (U+2190–U+21FF) → DejaVu Serif
+\setTransitionsFor{Arrows}{\arrowfont}{\normalfont}
+
+%% ── Language & spacing ───────────────────────────────────────────────────────
 \setmainlanguage{english}
-
-%% Spacing
 \setstretch{1.4}
 
-%% Headers/footers
+%% ── Page layout ──────────────────────────────────────────────────────────────
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\small\itshape Journal of the Asiatic Society}
@@ -36,18 +65,18 @@
 \fancyfoot[C]{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 
-%% Section styles
+%% ── Section styles ───────────────────────────────────────────────────────────
 \titleformat{\section}{\large\bfseries}{}{0em}{}[{\color{gray}\vspace{2pt}\hrule\vspace{4pt}}]
 \titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
 \titleformat{\subsubsection}{\normalsize\itshape}{}{0em}{}
 
-%% Title block
-\title{\textbf{Origins, Social Identity, and Documentary History\\[4pt]of the De/Dey Family of East Bengal, c.\,1200--1947}}
-\author{Robin Dey\\[4pt]
-  \small\texttt{robin@openhubresearch.org}}
+%% ── Title block ──────────────────────────────────────────────────────────────
+\title{\textbf{Origins, Social Identity, and Documentary History\\[4pt]%
+  of the De/Dey Family of East Bengal, c.\,1200--1947}}
+\author{Robin Dey\\[4pt]\small\texttt{robin@openhubresearch.org}}
 \date{\small\itshape Journal of the Asiatic Society \textnormal{---} Submitted May 2026}
 
-%% Pandoc tightlist
+%% ── Pandoc compatibility ─────────────────────────────────────────────────────
 \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 $for(header-includes)$
