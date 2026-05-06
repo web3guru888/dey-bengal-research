@@ -1,0 +1,61 @@
+% JAS submission template — XeLaTeX (simple, robust)
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{microtype}
+\usepackage[colorlinks=true,linkcolor=black,urlcolor=black,citecolor=black]{hyperref}
+\usepackage[a4paper,margin=1in,top=1.1in,bottom=1.1in]{geometry}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+%% Fonts — Noto Serif for Latin; Bengali chars fall back to system
+\setmainfont{Noto Serif}[
+  BoldFont       = Noto Serif Bold,
+  ItalicFont     = Noto Serif Italic,
+  BoldItalicFont = Noto Serif Bold Italic
+]
+\newfontfamily\bengalifont{Noto Serif Bengali}[Script=Bengali]
+
+%% Language
+\setmainlanguage{english}
+
+%% Spacing
+\setstretch{1.4}
+
+%% Headers/footers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\itshape Journal of the Asiatic Society}
+\fancyhead[R]{\small\itshape De/Dey Family of East Bengal}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+%% Section styles
+\titleformat{\section}{\large\bfseries}{}{0em}{}[{\color{gray}\vspace{2pt}\hrule\vspace{4pt}}]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalsize\itshape}{}{0em}{}
+
+%% Title block
+\title{\textbf{Origins, Social Identity, and Documentary History\\[4pt]of the De/Dey Family of East Bengal, c.\,1200--1947}}
+\author{Robin Dey\\[4pt]
+  \small\texttt{robin@openhubresearch.org}}
+\date{\small\itshape Journal of the Asiatic Society \textnormal{---} Submitted May 2026}
+
+%% Pandoc tightlist
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+$body$
+\end{document}
