@@ -1,11 +1,11 @@
 # Origins, Social Identity, and Documentary History of the De/Dey Family of East Bengal, c. 1200–1947
 
-**Robin Dey**
+<!-- AUTHOR: Robin Dey — name removed for double-blind peer review. Restore before non-blind submission. -->
 
 ---
 
-*Journal of the Asiatic Society* | Submission for Peer Review  
-*Vol. LXVII / LXVIII, 2025–2026*
+*South Asian History and Culture* | Submission for Peer Review  
+*Submitted May 2026*
 
 ---
 
