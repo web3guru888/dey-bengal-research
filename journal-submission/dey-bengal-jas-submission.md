@@ -115,19 +115,19 @@ This paper follows the kulagrantha tradition in noting the Karnasuvarna connecti
 
 The *documented* history of the Deva dynasty begins in the thirteenth century. The Muslim conquest of Bengal under Muhammad Bakhtiyar Khilji (1204 CE) rapidly dismantled the Sena dynasty's authority (Minhaj-i-Siraj, tr. Raverty, 1881; Eaton, 1993: 32–38). Into the resulting vacuum in eastern Bengal rose the family of Purushottamadeva, a *gramani* (village headman) of the Comilla-Noakhali region.
 
-Purushottamadeva's son Madhusudanadeva was the first of the family to assume the title *nripati* (king). It is the fourth ruler, **Damodaradeva** (r. c. 1231–1243 CE), who left the most extensive documentary record, adopting the imperial designation *Ariraja-Chanura-Madhava-Sakala-Bhupati-Chakravarti* (Banglapedia, "Damodaradeva"; Roy, 1993: 412–416).
+Purushottamadeva's son Madhusudanadeva was the first of the family to assume the title *nripati* (king). D.C. Sircar, editing the Mehar plate in *Select Inscriptions Bearing on Indian History and Civilization*, Vol. 2 (1965: 140, fn. 3), designates Purushottamadeva the *adipurusha* ("founding ancestor") of the dynasty — the most technically precise formulation in the epigraphic literature. It is the fourth ruler, **Damodaradeva** (r. c. 1231–1243 CE), who left the most extensive documentary record, adopting the imperial designation *Ariraja-Chanura-Madhava-Sakala-Bhupati-Chakravarti* (Majumdar, N.G., 1929: 158–163; Barua and Chakravarti, 1947: 182–191).
 
 ### 4.3 The Copper-Plate Evidence (Category A — Corroborated)
 
 Three copper-plate land grants of Damodaradeva survive and constitute the only Category A epigraphic evidence for the Deva dynasty:
 
-**The Mehar Copper Plate** (1234 CE, Comilla District): The earliest confirmed Deva dynasty grant, establishing territorial control over Samatata.
+**The Mehar Copper Plate** (Saka 1156 = 1234 CE, Comilla District): The earliest confirmed Deva dynasty grant, establishing territorial control over Samatata. Edited by Barua and Chakravarti (*Epigraphia Indica*, Vol. XXVII, 1947: 182–191) and included in Sircar (1965: 140–145). Contains the *vamsavali* designating Purushottamadeva *Dev-anvaya-gramani* and Madhusudanadeva as first *nripati*.
 
-**The Shobharampur Copper Plate** (1236 CE, Dhaka District): Records westward extension of Deva power into the former eastern edge of Sena influence.
+**The Sobharampur Copper Plate** (Saka 1158 = 1236 CE, Tippera District): Edited by Dani (*Epigraphia Indica*, Vol. XXX, 1953: 184–190). Independently designates Purushottamadeva "progenitor of the Deva dynasty" and confirms the gramani status: "it is reasonable to hold that he was only a gramani and not a ruler" (Dani, 1953: 185).
 
-**The Chittagong (Nasirabad) Copper Plate** (1243 CE): Extends Deva documentary reach to Chittagong, confirming control over a coastal arc from Comilla to Chittagong.
+**The Chittagong (Nasirabad) Copper Plate** (Saka 1165 = 1243 CE): The latest grant, extending Deva documentary reach to Chittagong. Standard edition in Majumdar, N.G. (1929: 158–163, No. XVII). The original plate is no longer traceable in the Asiatic Society collections; the 1929 edition remains the standard text.
 
-Damodaradeva's successor, **Dasharathadeva**, left the Adabadi copper plate and is recorded in the alliance (*ahad-namah*) with Delhi Sultan Ghiyasuddin Balban, dated by Majumdar (1960) to c. 1282 CE. The dynasty maintained its last stronghold at Sonargaon until approximately **1317 CE**, when Shamsuddin Firuz Shah's forces took the city (Yahya bin Ahmad, 15th century; Banglapedia, "Danauja Rai").
+Damodaradeva's successor, **Dasharathadeva**, left the Adavadi copper plate (Majumdar, N.G., 1929: 181–182, No. XVIII) and is recorded in *Tarikh-i-Mubarak Shahi* (Yahya bin Ahmad Sirhindi, comp. c. 1434, trans. Basu, K.K., Calcutta: Asiatic Society of Bengal, 1931) as making an alliance with Delhi Sultan Ghiyasuddin Balban in 1281 CE. The dynasty maintained its last stronghold at Sonargaon until approximately **1317 CE**, when Shamsuddin Firuz Shah's forces took the city (Banglapedia, "Danauja Rai").
 
 Critically, none of the surviving copperplates record the Deva dynasty's gotra, genealogical founder, or connection to Karnasuvarna. The royal *prashastis* employ the conventional Somavamsa ("lunar dynasty") formula borrowed from Sena chancery usage — a legitimating formula that Majumdar (1971: 230) characterises as standard political rhetoric rather than genealogical fact.
 
@@ -487,6 +487,8 @@ Basu, N. (1913a), *Banger Jatiya Itihas: Baishya-kanda*, Calcutta: Bangiya Sahit
 
 Basu, N. (1913b), *Kayastha Barna Nirnay (কায়স্থের বর্ণ-নির্ণয়)*, Calcutta. [Archive.org: dli.bengal.10689.4282]
 
+Barua, B.M. and Chakravarti, P.B. (1947), 'Mehar Plate of Damodaradeva, Saka 1156, Regnal Year 4', *Epigraphia Indica*, Vol. XXVII, No. 33, pp. 182–191. [Archive.org: in.ernet.dli.2015.56527]
+
 Basu, N. (1914), *Banger Jatiya Itihas: Rajanya Kanda*, Calcutta: Bangiya Sahitya Parishad. [Archive.org: in.ernet.dli.2015.355890]
 
 Basu, N. (1929), *Banger Jatiya Itihas: Uttarrariya Kayastha-kanda, Vol. 3*, Calcutta. [Archive.org: in.ernet.dli.2015.356667]
@@ -502,6 +504,8 @@ Bhattasali, N.K. (1922), *Coins and Chronology of the Early Independent Sultans 
 Bhowmik, D. (n.d.), 'Basu, Nagendranath', *Banglapedia: National Encyclopaedia of Bangladesh*, Asiatic Society of Bangladesh, online edition. [en.banglapedia.org/index.php?title=Basu,_Nagendranath]
 
 Chatterjee, K. (2005), 'The King of Controversy: History and Nation-Making in Late Colonial India', *American Historical Review*, 110(5): 1454–1475.
+
+Dani, A.H. (1953), 'Sobharampur Plate of Damodaradeva, Saka 1158', *Epigraphia Indica*, Vol. XXX, No. 32, pp. 184–190. [Archive.org: in.ernet.dli.2015.56550]
 
 Chatterjee, K. (2009), 'The Genealogical Tradition', in *The Cultures of History in Early Modern India: Persianization and Mughal Culture in Bengal*, New Delhi: Oxford University Press, pp. 110–134.
 
@@ -523,6 +527,8 @@ Khan, M.H. (2012), 'Danauja Rai, Raja', *Banglapedia: National Encyclopaedia of 
 
 *Loke Nath Sen v. Aswini Kumar Dey*, AIR 1938 Cal 216. Calcutta High Court, 1 September 1937.
 
+Majumdar, N.G. (1929), *Inscriptions of Bengal, Vol. III: Containing Inscriptions of the Chandras, the Varmans and the Senas, and of Isvaraghosha and Damodara*, Rajshahi: Varendra Research Society. [Wikimedia Commons PDF]
+
 Majumdar, R.C. (1960), *The Delhi Sultanate*, Vol. 6 of *The History and Culture of the Indian People*, Bombay: Bharatiya Vidya Bhavan.
 
 Majumdar, R.C. (1971), *History of Ancient Bengal*, Calcutta: G. Bharadwaj.
@@ -540,6 +546,8 @@ Putatunda, B.K. (1980), *Chandradweep er Itihas*, Barisal.
 Reich, D., Thangaraj, K., Patterson, N., Price, A.L. and Singh, L. (2009), 'Reconstructing Indian Population History', *Nature*, 461: 489–494.
 
 Risley, H.H. (1891), *The Tribes and Castes of Bengal*, 2 vols., Calcutta: Bengal Secretariat Press.
+
+Sircar, D.C. (1965), *Select Inscriptions Bearing on Indian History and Civilization, Vol. 2: From the Sixth to the Eighteenth Century A.D.*, Delhi: Motilal Banarsidass. [Archive.org: in.ernet.dli.2015.56669; 921 pp.; Mehar plate at No. 28, pp. 140–145]
 
 Roy, N. (1993), *Bangalir Itihas: Adiparba*, Calcutta: Dey's Publishing.
 
@@ -559,7 +567,7 @@ Vidyanidhi, L. (1896), *Sambandha Nirnaya (সম্বন্ধনির্ণ�
 
 Wink, A. (1990–2004), *Al-Hind: The Making of the Indo-Islamic World*, 3 vols., Leiden: Brill.
 
-Yahya bin Ahmad (15th century), *Tarikh-i-Mubarak Shahi*, discussed in Majumdar (1971) and Banglapedia, "Danauja Rai."
+Yahya bin Ahmad Sirhindi (comp. c. 1434 CE), *Tarikh-i-Mubarak Shahi*, trans. K.K. Basu, Calcutta: Asiatic Society of Bengal, 1931. [Records Dasharathadeva as "Danuj Rai of Sonargaon" in alliance with Balban, 1281 CE]
 
 ---
 
