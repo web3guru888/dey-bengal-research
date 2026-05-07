@@ -12,7 +12,7 @@ robin@openhubresearch.org
 
 The Bengali Hindu surname De/Dey (দে / দেয়) derives from Sanskrit *deva* and crystallised as a hereditary Kayastha identifier between 1231 and 1317 CE in association with the Vaishnava Deva dynasty of Bikrampur and Sonargaon. Within the Bangaja (eastern Bengal) Kayastha hierarchy, Dey families occupy the *Mahapatra* sub-tier — the highest Maulika rank — attested independently in Vidyanidhi's *Sambandha Nirnaya* (1896). Genetic evidence from Pagani *et al.* (2017) indicates Y-haplogroup H1a* for a Dey individual, consistent with indigenous Bengal rather than steppe-migrant origin. A micro-historical case study centres on *Loke Nath Sen v. Aswini Kumar Dey* (AIR 1938 Cal 216), involving the author's grandfather, an umbrella manufacturer in Mymensingh Burra Bazar.
 
-**Keywords:** De/Dey surname, Bengali Kayastha, Deva dynasty, Bangaja system, Alambana gotra, Mahapatra, Mymensingh, kulagrantha, population genetics
+**Keywords:** De/Dey surname, Bengali Kayastha, Deva dynasty, Bangaja system, Kashyapa gotra, Mahapatra, Mymensingh, kulagrantha, population genetics
 
 ---
 
